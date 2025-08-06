@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz"
+#EXTM3U 
 #EXTINF:-1 channel-id="GB3700007OZ-gb" tvg-id="GB3700007OZ" tvg-chno="4245" tvg-name="&TV" tvg-logo="" group-title="United Kingdom",&TV
 https://jmp2.uk/sam-GB3700007OZ.m3u8
 #EXTINF:-1 channel-id="FR13000020W-fr" tvg-id="FR13000020W" tvg-chno="4871" tvg-name="100% Cinema" tvg-logo="" group-title="France",100% Cinema
