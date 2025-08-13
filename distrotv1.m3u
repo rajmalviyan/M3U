@@ -1,14 +1,4 @@
-#=================================
-# 🖥️ Developed by: Abu SAEEID X Noob
-# 🔗 GitHub/Telegram: @abusaeeidx
-# 📡 IPTV Telegram Channels: @xfireflixbd
-# 🕒 Last Updated: 2025-08-10 07:27:15 AM (BD Time)
-# 📺 Channels Count : 493
-# 📜 Disclaimer:
-# 🎯 This tool does NOT host any content.
-# 📌 It aggregates publicly available data for informational purposes only.
-# 📩 For any issues or concerns, please contact the developer.
-#==================================
+
 #EXTM3U
 #EXTINF:-1 tvg-id="billiard-tv" tvg-logo="https://a.jsrdn.com/hls/22964/billiard-tv/poster_20210622_195953.png" group-title="Featured",Billiard TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/billi.m3u8
