@@ -55,6 +55,9 @@ https://live.dinesh29.com.np/stream/jiotvplus/colorssd/master.m3u8
 #EXTINF:-1 tvg-id="ts52" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="हिंदी मनोरंजन", Colors ᴴᴰ
 http://87.255.35.150:18890
 
+#EXTINF:-1 tvg-id="ts52" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="हिंदी मनोरंजन", Colors Super ᴴᴰ
+http://87.255.35.150:18445
+
 #EXTINF:-1 tvg-id="ts438" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey.png" group-title="हिंदी मनोरंजन", Colors Rishtey
 http://87.255.35.150:18886
 
@@ -73,7 +76,7 @@ https://bd.drmlive.net/toffee/cdn/live/sonysab_hd/playlist.m3u8
 https://la.drmlive.net/tp/sliv-sab.m3u8
 
 #EXTINF:-1 tvg-id="ts554" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="हिंदी मनोरंजन",Sony Pal
-https://la.drmlive.net/tp/sliv-pal.m3u8
+http://87.255.35.150:18887
 
 #EXTINF:-1 tvg-id="ts56" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="हिंदी मनोरंजन", Sony Wah
 https://la.drmlive.net/tp/sliv-wah.m3u8
@@ -799,8 +802,7 @@ https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8
 https://la.drmlive.net/tp/zee-channel_2105335046.m3u8
 
 #EXTINF:-1 tvg-id="ts530" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png" group-title="English Movies", & Prive ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/zee-9z5543514.m3u8
+http://87.255.35.150:18494
 
 #EXTINF:-1 tvg-id="AndpriveHD.in@SD" http-referrer="https://onezoo.net" group-title="English Movies",&prive HD (1080p)
 #EXTVLCOPT:http-referrer="https://onezoo.net"
@@ -814,6 +816,9 @@ https://playyonogames.in/z5/stream.m3u8?id=0-9-channel_2105335046
 
 #EXTINF:-1 tvg-id="ts32" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="English Movies",Sony PIX ᴴᴰ
 http://87.255.35.150:18495
+
+#EXTINF:-1 tvg-id="ts32" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Movies_Now.png" group-title="English Movies",Movies Now (1080p)
+http://87.255.35.150:18935
 
 #EXTINF:-1 tvg-id="ts1069" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_Select.png" group-title="English Movies", Star Movies ᴴᴰ
 http://87.255.35.150:18301
@@ -1003,8 +1008,8 @@ http://87.255.35.150:18828
 #EXTINF:-1 tvg-id="ts24" tvg-logo="https://image.airtel.tv/content/XSTREAMADS/undefined/XSTREAMADS_VIDEO_65854223b7f4303b98b1626d/Star_Sports_1_HD_Hindi.png" group-title="खेल",Star Sports 1 ᴴᴰ Hindi
 https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1hindi/master.m3u8
 
-#EXTINF:-1 tvg-id="1985" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_SD.png" group-title="खेल",Star Sports 2 Hindi
-https://live.dinesh29.com.np/stream/jiotvplus/starsports2hindi/master.m3u8
+#EXTINF:-1 tvg-id="1985" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_SD.png" group-title="खेल",Star Sports 3
+http://87.255.35.150:18828
 
 #EXTINF:-1 tvg-id="1984" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="खेल",Star Sports 2 ᴴᴰ Hindi
 https://jio.drmlive.net/jio/bpk-tv/Sports18_1_HD_MOB/Fallback/index.m3u8
@@ -1016,16 +1021,16 @@ https://live.dinesh29.com.np/stream/jiotvplus/starsportskhel/master.m3u8
 http://87.255.35.150:18804
 
 #EXTINF:-1 tvg-id="StarSports1Tamil.in@HD" group-title="खेल",Star Sports 1 Tamil HD
-https://live20.bozztv.com/akamaissh101/ssh101/vboxsungosttamil/playlist.m3u8
+http://87.255.35.150:18844
 
 #EXTINF:-1 tvg-id="514" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png" group-title="खेल", Sony TEN 1
-https://la.drmlive.net/tp/sliv-ten1.m3u8
+http://87.255.35.150:18926
 
 #EXTINF:-1 tvg-id="ts81" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="खेल", Sony TEN 1 ᴴᴰ
 https://la.drmlive.net/tp/sliv-ten1hd.m3u8
 
 #EXTINF:-1 tvg-id="523" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png" group-title="खेल", Sony TEN 2
-https://la.drmlive.net/tp/sliv-ten2.m3u8
+http://87.255.35.150:18927
 
 #EXTINF:-1 tvg-id="ts462" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="खेल", Sony TEN 2 ᴴᴰ
 https://la.drmlive.net/tp/sliv-ten2hd.m3u8
@@ -1043,7 +1048,7 @@ https://la.drmlive.net/tp/sliv-ten4.m3u8
 https://la.drmlive.net/tp/sliv-ten4hd.m3u8
 
 #EXTINF:-1 tvg-id="525" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="खेल",Sony TEN 5
-https://la.drmlive.net/tp/sliv-ten5.m3u8
+http://87.255.35.150:18818
 
 #EXTINF:-1 tvg-id="ts35" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="खेल",Sony TEN 5 ᴴᴰ
 https://la.drmlive.net/tp/sliv-ten5hd.m3u8
@@ -1093,7 +1098,7 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://tiger-hub.vercel.app/24×7_Tom&Jerry/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ts45" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="बच्चा पार्टी",Sony Yay
-https://la.drmlive.net/tp/sliv-yay.m3u8
+http://87.255.35.150:18285
 
 #EXTINF:-1 tvg-id="1920" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/The_Q_Kahaniyan.png" group-title="बच्चा पार्टी",The Q Kahaniyan
 https://vg-theqlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-640586/main.m3u8
@@ -1816,6 +1821,7 @@ https://media-content.akamaized.net/video/f08892aabac24d17b02c3e653134db987f67fc
 
 #EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/c872d91593b007515107579b76aba73e/en/2x3/312x468/1b6e7117fab56431d9b770925a4a9eba_1280x1920_badged_1734670811843.webp" tvg-type="VOD Movies",Robin Hood 2018
 https://d3sgzbosmwirao.cloudfront.net/video/b15805165036c5da4f3d269f0db9ea71/8/hls/h264_high.m3u8
+
 
 
 
