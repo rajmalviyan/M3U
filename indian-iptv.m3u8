@@ -53,10 +53,10 @@ https://la.drmlive.net/tp/zee-tvhd_0.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/colorssd/master.m3u8
 
 #EXTINF:-1 tvg-id="ts52" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="हिंदी मनोरंजन", Colors ᴴᴰ
-http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/index.m3u8
+http://87.255.35.150:18890
 
 #EXTINF:-1 tvg-id="ts438" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey.png" group-title="हिंदी मनोरंजन", Colors Rishtey
-http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsRishtey/JCHLS/index.m3u8
+http://87.255.35.150:18886
 
 #EXTINF:-1 tvg-id="1396" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="हिंदी मनोरंजन",SET
 https://bd.drmlive.net/toffee/cdn/live/sonyentertainmnt_hd/playlist.m3u8
@@ -79,8 +79,7 @@ https://la.drmlive.net/tp/sliv-pal.m3u8
 https://la.drmlive.net/tp/sliv-wah.m3u8
 
 #EXTINF:-1 tvg-id="ts557" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png" group-title="हिंदी मनोरंजन", Zee TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/zee-zeetv.m3u8
+http://87.255.35.150:18849
 
 #EXTINF:-1 tvg-id="ZeeTV.in@SD" http-referrer="https://onezoo.net" group-title="हिंदी मनोरंजन",Zee TV (1080p)
 #EXTVLCOPT:http-referrer="https://onezoo.net"
@@ -106,7 +105,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/starbharat/master.m3u8
 
 #EXTINF:-1 tvg-id="ts244" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="हिंदी मनोरंजन", Star Bharat ᴴᴰ
-https://live.dinesh29.com.np/stream/jiotvplus/starbharathd/master.m3u8
+http://87.255.35.150:18555
 
 #EXTINF:-1 tvg-id="ts551" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Utsav.png" group-title="हिंदी मनोरंजन", Star Utsav
 https://live.dinesh29.com.np/stream/jiotvplus/starutsav/master.m3u8
@@ -231,14 +230,14 @@ https://la.drmlive.net/tp/zee-209.m3u8
 
 #EXTINF:-1 tvg-id="ts148" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures.png" group-title="हिंदी फिल्में", & Pictures
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/zee-pictures.m3u8
+http://87.255.35.150:18510
 
 #EXTINF:-1 tvg-id="ts267" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="हिंदी फिल्में", & Pictures ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://la.drmlive.net/tp/zee-tvpictureshd.m3u8
 
 #EXTINF:-1 tvg-id="476" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="हिंदी फिल्में",Sony Max ᴴᴰ
-https://la.drmlive.net/tp/sliv-maxhd.m3u8
+http://87.255.35.150:18851
 
 #EXTINF:-1 tvg-id="289" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="हिंदी फिल्में", Sony Max
 https://la.drmlive.net/tp/sliv-max.m3u8
@@ -273,7 +272,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/stargold2hd/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldselect/master.m3u8
 
 #EXTINF:-1 tvg-id="ts595" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="हिंदी फिल्में",Star Gold Select ᴴᴰ
-https://live.dinesh29.com.np/stream/jiotvplus/stargoldselecthd/master.m3u8
+http://87.255.35.150:18429
 
 #EXTINF:-1 tvg-id="ts493" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Romance.png" group-title="हिंदी फिल्में",Star Gold Romance
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldromance/master.m3u8
@@ -285,13 +284,13 @@ https://live.dinesh29.com.np/stream/jiotvplus/stargoldthrills/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/starutsavmovies/master.m3u8
 
 #EXTINF:-1 tvg-id="ts61" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="हिंदी फिल्में",Colors Cineplex ᴴᴰ
-http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
+http://87.255.35.150:18296
 
 #EXTINF:-1 tvg-id="ts53" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="हिंदी फिल्में",Colors Cineplex
 https://live.dinesh29.com.np/stream/jiotv/colorscineplex/master.m3u8
 
 #EXTINF:-1 tvg-id="ts1000" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="हिंदी फिल्में",Colors Cineplex Bollywood
-http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/index.m3u8
+http://103.182.170.32:8888/play/a01o
 
 #EXTINF:-1 tvg-id="ts1000" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="हिंदी फिल्में",Colors Cineplex Superhits
 http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHLS/index.m3u8
@@ -301,11 +300,10 @@ http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHL
 https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/96133332/master.m3u8|Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 
 #EXTINF:-1 tvg-id="483" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="हिंदी फिल्में", Sony Max 2
-https://la.drmlive.net/tp/sliv-max2.m3u8
+http://87.255.35.150:18841
 
 #EXTINF:-1 tvg-id="ts100" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png?20230801125521" group-title="हिंदी फिल्में", Zee Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/zee-zeeaction.m3u8
+http://87.255.35.150:18507
 
 #EXTINF:-1 tvg-id="ts64" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="हिंदी फिल्में", Zee Anmol Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -316,8 +314,7 @@ https://la.drmlive.net/tp/zee-zeeanmolcinema.m3u8
 https://la.drmlive.net/tp/zee-bigganga.m3u8
 
 #EXTINF:-1 tvg-id="ts175" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="हिंदी फिल्में", Zee Bollywood
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/zee-zeeclassic.m3u8
+http://87.255.35.150:18861
 
 #EXTINF:-1 tvg-id="ts727" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic_SD.png" group-title="हिंदी फिल्में", Zee Classic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -816,11 +813,13 @@ https://playyonogames.in/z5/stream.m3u8?id=0-9-9z5543514
 https://playyonogames.in/z5/stream.m3u8?id=0-9-channel_2105335046
 
 #EXTINF:-1 tvg-id="ts32" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="English Movies",Sony PIX ᴴᴰ
-https://la.drmlive.net/tp/sliv-pix.m3u8
+http://87.255.35.150:18495
+
+#EXTINF:-1 tvg-id="ts1069" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_Select.png" group-title="English Movies", Star Movies ᴴᴰ
+http://87.255.35.150:18301
 
 #EXTINF:-1 tvg-id="ts1069" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_Select.png" group-title="English Movies", Star Movies Select
-https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselect/master.m3u8
-
+http://87.255.35.150:18548
 
 #EXTINF:-1  tvg-id="ts7" tvg-logo="https://stmify.com/wp-content/uploads/2024/08/81-s.webp" group-title="English Movies",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
@@ -999,7 +998,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/eurosporthd/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1/master.m3u8
 
 #EXTINF:-1 tvg-id="ts235" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/1168/661168-h" group-title="खेल",Star Sports 2 ᴴᴰ
-https://live.dinesh29.com.np/stream/jiotvplus/starsportshd2/master.m3u8
+http://87.255.35.150:18828
 
 #EXTINF:-1 tvg-id="ts24" tvg-logo="https://image.airtel.tv/content/XSTREAMADS/undefined/XSTREAMADS_VIDEO_65854223b7f4303b98b1626d/Star_Sports_1_HD_Hindi.png" group-title="खेल",Star Sports 1 ᴴᴰ Hindi
 https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1hindi/master.m3u8
@@ -1014,7 +1013,7 @@ https://jio.drmlive.net/jio/bpk-tv/Sports18_1_HD_MOB/Fallback/index.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/starsportskhel/master.m3u8
 
 #EXTINF:-1 tvg-id="ts664" tvg-logo="https://img.favpng.com/9/17/17/star-sports-3-television-channel-star-india-png-favpng-11XPQQPkC8VWA2fJAJ2Rh8hUx.jpg" group-title="खेल",Star Sports 3
-https://live.dinesh29.com.np/stream/jiotvplus/starsports3/master.m3u8
+http://87.255.35.150:18804
 
 #EXTINF:-1 tvg-id="StarSports1Tamil.in@HD" group-title="खेल",Star Sports 1 Tamil HD
 https://live20.bozztv.com/akamaissh101/ssh101/vboxsungosttamil/playlist.m3u8
@@ -1032,7 +1031,7 @@ https://la.drmlive.net/tp/sliv-ten2.m3u8
 https://la.drmlive.net/tp/sliv-ten2hd.m3u8
 
 #EXTINF:-1 tvg-id="524" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_3.png" group-title="खेल", Sony TEN 3
-https://la.drmlive.net/tp/sliv-ten3.m3u8
+http://87.255.35.150:18848
 
 #EXTINF:-1 tvg-id="ts464" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="खेल", Sony TEN 3 ᴴᴰ Hindi
 https://la.drmlive.net/tp/sliv-ten3hd.m3u8
@@ -1455,6 +1454,368 @@ https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u
 
 #EXTINF:-1 tvg-id="ts730" tvg-logo="https://i.imgur.com/CKLn0ft.png" group-title="SmartTV HD",B4U Kadak
 https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4ukadak-lgin/playlist.m3u8
+
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56a1d581798a3f3c8b33dd92875b4f03:7859bd1331cb2c7ce323293e3b2db6e4
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="" tvg-type="VOD Movies",Bhaiya Jee
+https://mediacloudfront.zee5.com/drm1/titanfile/dash/MOVIES/4K/ATMOS/BHAIYAJI/BHAIYAJI_4K_CROSS_PROMO_GYAARA_GYAARA_hi_4f9b7c36a89c32a737dbeda7cd9d4cd8/manifest-connected.mpd?c3.ri=6921309177427624320
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=785ab7573f0032dbae2a1ed021657f75:e35650a3facdc46ca5e5cc0d9d03b641
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="" tvg-type="VOD Movies",Sam Bahadur
+https://mediacloudfront.zee5.com/drm1/titanfile/dash/MOVIES/V2PRIME/4K/ATMOS/SAM_BAHADUR/SAM_BAHADUR_4K_15012024_hi_ce3bf342a1a084e007dbd6555abf5519/manifest.mpd?c3.ri=6895413479811410710
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74b5352e0c7746ddbe097c36cc1491d8:b8e73bfe5d8092a16550f9d6e7905fa4
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="" tvg-type="VOD Movies",Sirf Ek Bandaa Kafi Hai
+https://mediacloudfront.zee5.com/drm1/elemental/dash/MOVIES/MULTI_AUDIO_DIFF/4K/ATMOS/SIRF_EK_BANDAA_KAFI_HAI/SIRF_EK_BANDAA_KAFI_HAI_4K_06062023_hi_bcbb38378e16a6870e12d5869955dfaa/manifest-connected.mpd?c3.ri=6904139204592757406
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/7f8626c8f553aa648c0a9f99952ce369/en/2x3/312x468/test_pic1738931102928.webp" tvg-type="VOD Movies",CHHORII_2021
+https://d3s0ximcru5bdx.cloudfront.net/CHHORII_2021-Full-Mezz_UHD-hi-IN-R1-1734073865064/cmaf/H_264/CHHORII_2021-Full-Mezz_UHD-hi-IN-R1/abundantia-AB_CHHORII_2021-Full-Mezz_UHD-hi-IN-R1.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2c580670b2104d156e2d9a3fd42a413e/en/2x3/312x468/test_pic1736411396725_badged_1742965225005.webp" tvg-type="VOD Movies",DHRISHYAM-2_2022
+https://d3s0ximcru5bdx.cloudfront.net/DHRISHYAM2_22-Full-Mezz_UHD-hi-IN-1735550437504/cmaf/H_264/DHRISHYAM2_22-Full-Mezz_UHD-hi-IN/adf-ADF_DHRISHYAM2_22-Full-Mezz_UHD-hi-IN.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/1a4e41018417e4eeb8d3bab03d986d43/en/2x3/312x468/test_pic1738930438472_badged_1743397212561.webp" tvg-type="VOD Movies",RUNWAY-34_2022
+https://d3s0ximcru5bdx.cloudfront.net/RNWY34-Full-Mezz_UHD-hi-IN-1731494490295/cmaf/H_264/RNWY34-Full-Mezz_UHD-hi-IN/ajaydevgnfilms-ADF_RNWY34-Full-Mezz_UHD-hi-IN.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/01408e840738c64b487fe4bb6a6715ef/en/2x3/312x468/test_pic1736412187290.webp" tvg-type="VOD Movies",THAPPAD_2020
+https://d3s0ximcru5bdx.cloudfront.net/THAPPAD_GL2020-Full-Mezz_UHD-hi-IN-1733849309592/cmaf/H_264/THAPPAD_GL2020-Full-Mezz_UHD-hi-IN/bmw-BMW_THAPPAD_GL2020-Full-Mezz_UHD-hi-IN.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/f2dfad5b6e7488c6bbf8dac114b463a9/en/2x3/480x720/test_pic1733468518119.webp" tvg-type="VOD Movies",Highway_2014
+https://d3sgzbosmwirao.cloudfront.net/video/0a16c1433003d70d27bdbef35adcc40dd07de9bf65a899ebbc34b5961d53f4e4/3/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/ec3d5b3bc47bb3139852c7155d62bbcf/en/2x3/480x720/65e2b564479ba657be4b77a2b5e67d5e_1280x1920.webp" tvg-type="VOD Movies",MAGADHEERA_2008
+https://d3sgzbosmwirao.cloudfront.net/video/e1d9d4d4a7118a19f4af359db7c021e9/2/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/630b4cd7d54ff445c4f209529ede0e0c/en/2x3/312x468/test_pic1734089624667.webp" tvg-type="VOD Movies",DUS_2005
+https://d3sgzbosmwirao.cloudfront.net/video/707f6533f2a5232eb5b0c2fdce7956c5cdd3368bf1d08ebe831b0203fc4b53c8/2/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/40e26c318a13b67fb57bc13cb7aecf1b/en/2x3/480x720/test_pic1733998015739_badged_1734958485009.webp" tvg-type="VOD Movies",RISHTEY_2002
+https://d3sgzbosmwirao.cloudfront.net/video/ddfe793559002a3ef14eaffc1251a47f353704f83fc69af51f7855bcb9c275a6/2/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2ecf1fa2c467299e7c3c600f7c2f9b77/en/2x3/480x720/test_pic1734085666551.webp" tvg-type="VOD Movies",KUNWARA_2000
+https://d3sgzbosmwirao.cloudfront.net/video/f962d396af125802abbb82832af18b7344485cde1d6cbf094dec420e10c319bf/2/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/1c212c078fa00325fc5d14e571821833/en/2x3/480x720/test_pic1734091157312_badged_1734958419640.webp" tvg-type="VOD Movies",ANDAAZ_2003
+https://d3sgzbosmwirao.cloudfront.net/video/87be69c52a1b8701734394bd43d784635d8c188641e55fef279fca48d0aa1eff/2/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/ee602147072e6827b41daa6f64025300/en/2x3/480x720/test_pic1734011627505.webp" tvg-type="VOD Movies",MUJHSE_SHADI_KAROGI_2004
+https://d3sgzbosmwirao.cloudfront.net/video/7cc2de2950de1d31317f6e2c18c0a635f2e5e06025b17b9138f9e93332ab0b4c/4/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/132472a436d8ae441fe7190c75291a95/en/2x3/480x720/test_pic1733467747439.webp" tvg-type="VOD Movies",WELCOME_2007
+https://d3sgzbosmwirao.cloudfront.net/video/49d6b5d72b0190414b1de362cd3cbe810b2aceb645d9c69e9be7f4802172bd4d/2/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/7aca3e48726408076d74ac79f7bf73d7/en/2x3/480x720/test_pic1740041732949.webp" tvg-type="VOD Movies",JJJ_2022
+https://d3s0ximcru5bdx.cloudfront.net/JJJ_22-Full-Mezz_UHD-hi-IN-1731434552415/cmaf/H_264/JJJ_22-Full-Mezz_UHD-hi-IN/viacom18-VIACOM_JJJ_22-Full-Mezz_UHD-hi-IN.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/f11cec31eff8ae5a0984017b3c252e02/en/2x3/480x720/test_pic1733468574850.webp" tvg-type="VOD Movies",HOUSEFUL-2_2012
+https://d3sgzbosmwirao.cloudfront.net/video/5729040e90016403200cd84f5a2c847218ab0676f11733ea0292d3d4a8540136/2/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/8ab7bc3c4b3a49d9fa1e1edba792e4fe/en/2x3/480x720/test_pic1734167434218.webp" tvg-type="VOD Movies",KMJNB_2001
+https://d3sgzbosmwirao.cloudfront.net/video/4efbace378fd023cd57538b2f7d5f107feecff8bcd266845c4c0391f9757dad6/2/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/3a8bec452763b760a7405b410a958bbb/en/2x3/480x720/test_pic1614589587122.webp" tvg-type="VOD Movies",HUM_1991
+https://d3sgzbosmwirao.cloudfront.net/video/abbe0823ed6979db8de41db2c21c6752/1/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/1219f962f13ea39fe005561d0254f677/en/2x3/480x720/e96cf092dbd4eaa15970329aa8e27f72_1280x1920.webp" tvg-type="VOD Movies",HINDUSTAN_KI_KASAM_1999
+https://d3sgzbosmwirao.cloudfront.net/video/0404add690a76490d58811057f45c005/2/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/74e63e61c6852b1bf1f7fd27a9304549/en/2x3/312x468/test_pic1734085941023.webp" tvg-type="VOD Movies",THE_LEGEND_OF_BHAGAT_SINGH_2002
+https://d3sgzbosmwirao.cloudfront.net/video/ede0f6f983d06ce3692ea72408e624f27e9716b57577bfdbe0435370e349b75d/3/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/899579c4db3448f5a1904b39a82e3233/en/2x3/480x720/test_pic1734091339803.webp" tvg-type="VOD Movies",HUMKO_TUMSE_PYAR_HAI_2006
+https://d3sgzbosmwirao.cloudfront.net/video/2f6bf7d45abd7a58a927a43b8822987239663a2d00a943718f783d1dfcaea308/2/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/5f6b7ad6158ebadcdbd5107ebe3d3d9d/en/2x3/312x468/test_pic1733467638205.webp" tvg-type="VOD Movies",DIL_HAI_TUMHARA_2002
+https://d3sgzbosmwirao.cloudfront.net/video/a0e779d3e5acbec83f1abd077c162ffda7111b67e5a0d9818973826169481bb6/1/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/b89bc3c5a389962143f892ea402e8b00/en/2x3/480x720/test_pic1734088826104.webp" tvg-type="VOD Movies",MP3_2007
+https://d3sgzbosmwirao.cloudfront.net/video/05f988b7704b126e3d9a5297e96def47d36431ff74defe1c3d3f4a1d3460d9f7/2/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/bfd72098d8e06e3f17bc9ac33e64a7f7/en/2x3/480x720/test_pic1734084489700.webp" tvg-type="VOD Movies",HUM-KISI-SE-KAM-NAHIN_2002
+https://d3sgzbosmwirao.cloudfront.net/video/79b9249b00bfb62134d636ee8e40b8b0d356a22c2e2608e338bdaac32e76f76e/2/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/b623bb177a2c771de830aa3e53cb02a0/en/2x3/312x468/test_pic1574239868034.webp" tvg-type="VOD Movies",RAJU-BAN-GAYA-GENTLEMAN_1992
+https://d3sgzbosmwirao.cloudfront.net/video/6fbe9914c6404e341b0ca570c64314bc/4/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/d6dc86314270c705941db254679013e2/en/2x3/312x468/test_pic1734433688248.webp" tvg-type="VOD Movies",TEXAS-CHAINSAW_2013
+https://d3sgzbosmwirao.cloudfront.net/video/5711146add3c46a824fc8e0f3103eea241ec46ce97187e5f86f97c77a4d54670/1/hls/h264_high.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlicense.mxplay.com/widevine/proxy?content_id=049a9482afd92144951c5e7b0c9800cc709589477fd0f83921097376e6a5f3c7
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/b97c2458de8109ef49ab87bd36f83d6f/en/2x3/312x468/test_pic1737645206721.webp" tvg-type="VOD Movies",Hell Boy
+https://media-content.akamaized.net/video/049a9482afd92144951c5e7b0c9800cc709589477fd0f83921097376e6a5f3c7/1/dash/h264_high.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlicense.mxplay.com/widevine/proxy?content_id=c7330a6c52ca93522b912432fb2560884edd6112c7445c97a4b81ac23af5c559
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/27a8357aa52e3be1aa691bd3dbdce173/en/2x3/312x468/test_pic1737362193855.webp" tvg-type="VOD Movies",The Karate Kid
+https://media-content.akamaized.net/video/c7330a6c52ca93522b912432fb2560884edd6112c7445c97a4b81ac23af5c559/1/dash/h264_high.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlicense.mxplay.com/widevine/proxy?content_id=f286a97bee06a0d3cfd210b1712b173ade39982437894b5b8e2d08fa6266f22e
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/19a6dbd95f01fe6e8518aface4fe9fb1/en/2x3/312x468/test_pic1737362287863.webp" tvg-type="VOD Movies",The Amazing Spider Man_2012
+https://media-content.akamaized.net/video/f286a97bee06a0d3cfd210b1712b173ade39982437894b5b8e2d08fa6266f22e/1/dash/h264_high.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlicense.mxplay.com/widevine/proxy?content_id=418fa3f79b20298782066bc7a04c62b732583976e42163065f48847bedaf0025
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/bc85356f6c1eecd3673d1d58d592c819/en/2x3/312x468/test_pic1737362341944.webp" tvg-type="VOD Movies",The Amazing Spider Man 2_2014
+https://media-content.akamaized.net/video/418fa3f79b20298782066bc7a04c62b732583976e42163065f48847bedaf0025/1/dash/h264_high.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlicense.mxplay.com/widevine/proxy?content_id=6c6da9551583bb0266003f8da7706eef7f61cb03c57bcab3751cea6b361319da
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/c4fdfb25f4688c79a1d586ae1c53e86d/en/2x3/312x468/test_pic1737985199936.webp" tvg-type="VOD Movies",Monster Hunter 2020
+https://media-content.akamaized.net/video/6c6da9551583bb0266003f8da7706eef7f61cb03c57bcab3751cea6b361319da/1/dash/h264_high.mpd
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/500f8c5e98bf9d06e109d8b880a76342/en/2x3/312x468/d6abd89f3708085f3c9fe8b20d24be3d_1280x1920.webp" tvg-type="VOD Movies",Monkey King 2
+https://d3sgzbosmwirao.cloudfront.net/video/59f18acf99d81b09ce5ff58ae5a7523d326f4b295e3db4dac68120061a0447fb/1/hls/h264_high.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlicense.mxplay.com/widevine/proxy?content_id=b2f825663bd03cf4f11a691bbf5314b69a62b23d984f63004055a766a105bbe6
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/95d52e6977ccd4d49b484d28915a2dd6/en/2x3/312x468/test_pic1737362395157.webp" tvg-type="VOD Movies",Angry Birds
+https://media-content.akamaized.net/video/b2f825663bd03cf4f11a691bbf5314b69a62b23d984f63004055a766a105bbe6/1/dash/h264_high.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlicense.mxplay.com/widevine/proxy?content_id=b2f825663bd03cf4f11a691bbf5314b69a62b23d984f63004055a766a105bbe6
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/6459c11c50d250324895c10cee21a77b/en/2x3/312x468/1a2cb821df8b73ab3c7edbb32e1bfded_1280x1920.webp" tvg-type="VOD Movies",Angry Birds 2
+https://media-content.akamaized.net/video/b2f825663bd03cf4f11a691bbf5314b69a62b23d984f63004055a766a105bbe6/1/dash/h264_high.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlicense.mxplay.com/widevine/proxy?content_id=37d4b2caad0fdddbffda14fe9b470fb56eca6945b582553e9af66a9d607f1c94
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/043719654a68d0c320afce00cc4fa37e/en/2x3/312x468/test_pic1738903907759.webp" tvg-type="VOD Movies",R.EVIL 2002
+https://media-content.akamaized.net/video/37d4b2caad0fdddbffda14fe9b470fb56eca6945b582553e9af66a9d607f1c94/1/dash/h264_high.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlicense.mxplay.com/widevine/proxy?content_id=c7850903fa155ffd3e892e3c2aee3a7669eea46beae5d0dc92a57d16fd049b5a
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/28dcc87fb4745aa0d64231cd234b3012/en/2x3/312x468/test_pic1737985317108.webp" tvg-type="VOD Movies",R.EVIL 2004
+https://media-content.akamaized.net/video/c7850903fa155ffd3e892e3c2aee3a7669eea46beae5d0dc92a57d16fd049b5a/1/dash/h264_high.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlicense.mxplay.com/widevine/proxy?content_id=210df1984e3fe7ca74cd382e7e60bec2c1e563dd851f24cf839f22b3b2708fd7
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/ecd03d28217359282ccad846d0f2bfb9/en/2x3/312x468/test_pic1737985369900.webp" tvg-type="VOD Movies",R.EVIL 2007
+https://media-content.akamaized.net/video/210df1984e3fe7ca74cd382e7e60bec2c1e563dd851f24cf839f22b3b2708fd7/1/dash/h264_high.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlicense.mxplay.com/widevine/proxy?content_id=4fc2cd123777ebcbee9fcfa15d31aaef71d0e96a42f506e609758121320db96f
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2454fae86bf24520068445e17e1c3f7e/en/2x3/312x468/test_pic1737985261150.webp" tvg-type="VOD Movies",R.EVIL 2010
+https://media-content.akamaized.net/video/4fc2cd123777ebcbee9fcfa15d31aaef71d0e96a42f506e609758121320db96f/1/dash/h264_high.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlicense.mxplay.com/widevine/proxy?content_id=c1d8450e660d1aa58262fc7ee4d3224e6bcf99eca8454512ea4d7adca1b50962
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/1f14a5ffae719b45d8cefe13c54e98bb/en/2x3/312x468/test_pic1737985452136.webp" tvg-type="VOD Movies",R.EVIL 2012
+https://media-content.akamaized.net/video/c1d8450e660d1aa58262fc7ee4d3224e6bcf99eca8454512ea4d7adca1b50962/1/dash/h264_high.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlicense.mxplay.com/widevine/proxy?content_id=33200815c4cd63c2b45fbd5a3d08a65663c7ad5f35a414895683052dbedc525c
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/b8b685e85aa420405f1c9937493de60d/en/2x3/312x468/test_pic1738904240199.webp" tvg-type="VOD Movies",R.EVIL 2016
+https://media-content.akamaized.net/video/33200815c4cd63c2b45fbd5a3d08a65663c7ad5f35a414895683052dbedc525c/1/dash/h264_high.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlicense.mxplay.com/widevine/proxy?content_id=1b0e8ea48ca7d78791b489f160966d667f8e0f9e8d673106bc1709e5645b76e9
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/e450497dc2aac1955629275783bce849/en/2x3/312x468/test_pic1737361997181.webp" tvg-type="VOD Movies",Ghost Rider 2007
+https://media-content.akamaized.net/video/1b0e8ea48ca7d78791b489f160966d667f8e0f9e8d673106bc1709e5645b76e9/1/dash/h264_high.mpd
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/5724f03aab4d9b208f3397bdf42fa855/en/2x3/312x468/5e0627aaa20e76fb1ca566d469306f6b_1280x1920.webp" tvg-type="VOD Movies",Divergent 2014
+https://d3sgzbosmwirao.cloudfront.net/video/4b6be1b4e863de2b0277ec78fb3962eb/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/fb23d646be9f4501ce73b62fcb2a5065/en/2x3/312x468/67725d61c649e1758cbcc2e2705d533e_1280x1920.webp" tvg-type="VOD Movies",Insurgent 2015
+https://d3sgzbosmwirao.cloudfront.net/video/5db68319b7508a580d12c40fa5a6f04a/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/c77b1e47b928f018742e8e9119e4cc01/en/2x3/312x468/38357cc3bcc551d45983081b3f7cae83_1280x1920.webp" tvg-type="VOD Movies",Allegiant 2016
+https://d3sgzbosmwirao.cloudfront.net/video/64788368b8221803185c64755e406198/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/8f9eb2b9dc634c8efe15be770eebfd1e/en/2x3/312x468/test_pic1736411119303_badged_1742965221547.webp" tvg-type="VOD Movies",Ram Setu 2022
+https://d3s0ximcru5bdx.cloudfront.net/RamSethu_22-Full-Mezz_UHD-hi-IN-1733485778200/cmaf/H_264/RamSethu_22-Full-Mezz_UHD-hi-IN/abundantia-abundantia_RamSethu_22-Full-Mezz_UHD-hi-IN.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/c2dc7967b20d067c12227043915c9f84/en/2x3/312x468/test_pic1738057924296_badged_1742965215426.webp" tvg-type="VOD Movies",Pushpa:The Rise 2022
+https://d3s0ximcru5bdx.cloudfront.net/Pushpa1_HINDI-Full-Mezz_UHD-hi-IN-R1-1733937147956/cmaf/H_264/Pushpa1_HINDI-Full-Mezz_UHD-hi-IN-R1/goldmines-Goldmine_Pushpa1_HINDI-Full-Mezz_UHD-hi-IN-R1.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/c2f3d81ec4536a5e4b881d6057c5698d/en/2x3/312x468/test_pic1733467299246.webp" tvg-type="VOD Movies",Bhagam Bhaag 2006
+https://d3sgzbosmwirao.cloudfront.net/video/0708af01ab647d6674fa1f948fc55a3be3275da20efc9a7d6f16dad787d0d798/3/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/ee602147072e6827b41daa6f64025300/en/2x3/312x468/test_pic1734011627505.webp" tvg-type="VOD Movies",Mujhse Shadi Karogi 2004
+https://d3sgzbosmwirao.cloudfront.net/video/7cc2de2950de1d31317f6e2c18c0a635f2e5e06025b17b9138f9e93332ab0b4c/4/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/f11cec31eff8ae5a0984017b3c252e02/en/2x3/312x468/test_pic1733468574850.webp" tvg-type="VOD Movies",Houseful-2
+https://d3sgzbosmwirao.cloudfront.net/video/5729040e90016403200cd84f5a2c847218ab0676f11733ea0292d3d4a8540136/2/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0c9a04676dc61baefd52689597ee18e9/en/2x3/312x468/test_pic1734091278814.webp" tvg-type="VOD Movies",Diwane Hue Pagal 2005
+https://d3sgzbosmwirao.cloudfront.net/video/bfc611f3a3705d1a8cd27ee2db57c712323a8b397dd7e2852e7ab06ab27b0e5b/2/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/c6272761a98338b25d19264cfd643f4b/en/2x3/312x468/test_pic1734089329390_badged_1734958481484.webp" tvg-type="VOD Movies",Phir Hera Pheri 2006
+https://d3sgzbosmwirao.cloudfront.net/video/4bb31dbfadaef729080831ee8a89eac896e3a5499da0f70aa45a3d8fbdfe2468/3/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/8ed2c343f565ee0a5821203db2f8b2c9/en/2x3/312x468/test_pic1733467897757.webp" tvg-type="VOD Movies",Golmaal 2006
+https://d3sgzbosmwirao.cloudfront.net/video/c826462db6dbc228509f642d220acc04a72b2d29168ed1f903f9faa2c75361f7/2/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/5cdce6be9d936a034839ca5c2770e209/en/2x3/312x468/test_pic1733468034828.webp" tvg-type="VOD Movies",Golmaal Returns 2008
+https://d3sgzbosmwirao.cloudfront.net/video/2de38bdff11a81652172e0053702ae3bcecfd2667ce7da083cdd51ca1d068ce2/1/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/5bd3ccb26549b67c6027d72fc7e84c09/en/2x3/312x468/test_pic1734169387446.webp" tvg-type="VOD Movies",All The Best 2009
+https://d3sgzbosmwirao.cloudfront.net/video/402f8aef5d75911c114a6ad7352607a5473b30fa20bdf7895a205738b6fe7571/2/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/a3b53d8994a29b8cfae0e061427be565/en/2x3/312x468/test_pic1579080602042.webp" tvg-type="VOD Movies",Yamla Pagla Deewana 2011
+https://d3sgzbosmwirao.cloudfront.net/video/402f8aef5d75911c114a6ad7352607a5473b30fa20bdf7895a205738b6fe7571/2/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/1dd37d2c7c41643e5677128f678fbe5b/en/2x3/312x468/test_pic1734087085862_badged_1734958463361.webp" tvg-type="VOD Movies",Har Dil Jo Pyar Karega 2000
+https://d3sgzbosmwirao.cloudfront.net/video/54d6a3028a739e60d112c86d367c91b0ada29c03c2d1d953a82882cb09f0216b/2/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/b0d32d5e9aace0cf921d7f9b488f4b65/en/2x3/312x468/test_pic1734089669456.webp" tvg-type="VOD Movies",Dosti 2005
+https://d3sgzbosmwirao.cloudfront.net/video/4cb3f0233ddf9692f551c928f643e6e1e216ff135528cb6b011c9e4096a06f19/2/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/453d8d5d34a3fc3aada060c1ea170998/en/2x3/312x468/test_pic1734086336080_badged_1734958467005.webp" tvg-type="VOD Movies",Maine Dil Tujhko Diya 2002
+https://d3sgzbosmwirao.cloudfront.net/video/064e301d4752a6cc829c268121257fbc8e52f0ed5cff648ac80d34848b99a847/2/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2371fd7caaf330591538e5c005e38cb4/en/2x3/312x468/test_pic1734089526636.webp" tvg-type="VOD Movies",Khatta Meetha 2010
+https://d3sgzbosmwirao.cloudfront.net/video/b88aba2f3c17f53de7b68cffca7a8fa262a5c6879cc1c8adeff891fc97ff1de9/2/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0eaa2c60c9c412f9ae07d1f110efd534/en/2x3/312x468/test_pic1734085827976.webp" tvg-type="VOD Movies",Zid 2014
+https://d3sgzbosmwirao.cloudfront.net/video/c9110e910473739970d7a19e2370210df6d3b8a201bcae426f9779cb174526ec/2/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/b760237256df28945f151d8b5bc59f6a/en/2x3/312x468/test_pic1734167688794.webp" tvg-type="VOD Movies",Once Upon A Time In Mumbai 2010
+https://d3sgzbosmwirao.cloudfront.net/video/97046c54e78b0c8b93df37adb3745af161732ad0827d532fcf90ff642cf144b2/2/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/00a46c0c379f25b548e7b3f0f905f2d5/en/2x3/312x468/test_pic1734167085236.webp" tvg-type="VOD Movies",Once Upon A Time In Mumbai Dobara 2013
+https://d3sgzbosmwirao.cloudfront.net/video/d21db851dd8d8dc48fecc39b988e26df902b31509f00b04def9969178a0e75c4/2/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/6a36663ad698d7b5f013d8a5249d491a/en/2x3/312x468/test_pic1734091608576.webp" tvg-type="VOD Movies",Ishqiya 2010
+https://d3sgzbosmwirao.cloudfront.net/video/1113d8483d703dc799676fda3bdafbde2742f5a8fa4ee151ba3a9147209058f0/3/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/bd3117f2eb110775795c0232cee15f32/en/2x3/312x468/test_pic1740039361452.webp" tvg-type="VOD Movies",Dedh Ishqiya 2014
+https://d3sgzbosmwirao.cloudfront.net/video/8ed48707fccb2650bb768a07d19560bf325d658bb4914411250d4257e21c58cb/2/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/208b660662be88e1ed36ab2e92c2ca53/en/2x3/312x468/test_pic1734094217647.webp" tvg-type="VOD Movies",Anwar 2007
+https://d3sgzbosmwirao.cloudfront.net/video/11a3dae373d85747d78a37b01ac4734ee9c99022a39632a7df8e6f18834f9b70/2/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/051c6a1c30af3c47552e7da346ead5d0/en/2x3/312x468/test_pic1738931036801.webp" tvg-type="VOD Movies",Jawani Janeman 2020
+https://d3s0ximcru5bdx.cloudfront.net/JJ_2020-Full-Mezz_HD-hi-IN-1733937456129/cmaf/H_264/JJ_2020-Full-Mezz_HD-hi-IN/poojaent-POOJA_JJ_2020-Full-Mezz_HD-hi-IN.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/039664d4d85c603cfb5a6cd66b9e29ec/en/2x3/312x468/157d8d28c0198ea13078cd2eadb14f45_1280x1920.webp" tvg-type="VOD Movies",Kaithi 2020
+https://d3sgzbosmwirao.cloudfront.net/video/2543714c43aef14fae52f0ac7331cf17/2/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/3019dcb5345073d3e2fb1104adedc356/en/2x3/312x468/1211fdf844b3443f5dbd9893be5aa3f8_1280x1920.webp" tvg-type="VOD Movies",Vikram Vedha 2017
+https://d3sgzbosmwirao.cloudfront.net/video/3b229c5f64774ea87a7309daab4397fc4bca2de0c225654e4f27382a47f4408c/1/hls/h264_high.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlicense.mxplay.com/widevine/proxy?content_id=6d111ccee3ba89d25eb8cde52a2342c2832fb19301b83420aeb47233cd57bb9e
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/9fd71c2d1fa81800c49ae0144ef31084/en/2x3/312x468/9e8f71f7c737034597ebe898907c9117_1280x1920.webp" tvg-type="VOD Movies",Hollow Man 2
+https://media-content.akamaized.net/video/6d111ccee3ba89d25eb8cde52a2342c2832fb19301b83420aeb47233cd57bb9e/1/dash/h264_high.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlicense.mxplay.com/widevine/proxy?content_id=c91912b0f7af7c47afa89b4994df4aaa50c421480b0ceb0a9eb1955565e0ff6d
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/bce7ae02445dad432bdab581e180ceef/en/2x3/312x468/d5f863cd13cc307123989701f8b72fdf_1280x1920.webp" tvg-type="VOD Movies",Jumanji The Next Level
+https://media-content.akamaized.net/video/c91912b0f7af7c47afa89b4994df4aaa50c421480b0ceb0a9eb1955565e0ff6d/1/dash/h264_high.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlicense.mxplay.com/widevine/proxy?content_id=73f8820dda75f72b7330b9976b7927d568845790dced7479337a9381aa9d933a
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/1f22b9aa8b8fba4dcface57ac7cf9812/en/2x3/312x468/test_pic1738076945614.webp" tvg-type="VOD Movies",Underworld:Rise Of Lycans 2009
+https://media-content.akamaized.net/video/73f8820dda75f72b7330b9976b7927d568845790dced7479337a9381aa9d933a/1/dash/h264_high.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlicense.mxplay.com/widevine/proxy?content_id=bbff76dd9620a1ef792d66f35cee9ac75167cde07eb58a296b96271f2f12f554
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/5c26137ba68b2b22251ffbd07a06481b/en/2x3/312x468/14f3cae809aef8248790cb95e423fcd3_1280x1920.webp" tvg-type="VOD Movies",Underworld:Blood Wars 2016
+https://media-content.akamaized.net/video/bbff76dd9620a1ef792d66f35cee9ac75167cde07eb58a296b96271f2f12f554/1/dash/h264_high.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlicense.mxplay.com/widevine/proxy?content_id=b8a0f6666e19551e06be21b485e857930f9605fbe62a0e12bf51d9a19706d7ed
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/6a1301fdf4b464013b0e7f796827461d/en/2x3/312x468/test_pic1737813023293.webp" tvg-type="VOD Movies",Charlie's Angels 2000
+https://media-content.akamaized.net/video/b8a0f6666e19551e06be21b485e857930f9605fbe62a0e12bf51d9a19706d7ed/1/dash/h264_high.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlicense.mxplay.com/widevine/proxy?content_id=64a4e522d111edaed9f7bdb5f8c63da965edc3451173fa7c72f4f7df7ded68b0
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/5a7465325e8609e33090ba97c054c647/en/2x3/312x468/test_pic1737643931894.webp" tvg-type="VOD Movies",Charlie's Angels 2003
+https://media-content.akamaized.net/video/64a4e522d111edaed9f7bdb5f8c63da965edc3451173fa7c72f4f7df7ded68b0/1/dash/h264_high.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlicense.mxplay.com/widevine/proxy?content_id=d807cf50a25bdb954497d1bdaf7c382bf5660d0660c9e65a1c702a12eb9486ca
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/7c68d12003e8a93fbc1a6d8f907fb0bd/en/2x3/312x468/efaf6eda390b2706d526813158ab2f79_1280x1920.webp" tvg-type="VOD Movies",Charlie's Angels 2019
+https://media-content.akamaized.net/video/d807cf50a25bdb954497d1bdaf7c382bf5660d0660c9e65a1c702a12eb9486ca/1/dash/h264_high.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlicense.mxplay.com/widevine/proxy?content_id=31bfcf304f2690f90fd9dee2c89eaf0ec099fd741fd3d1f78341803a9824aa88
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/8ff74c7900e1a290ac974f1cd88b5c42/en/2x3/312x468/test_pic1737645432344.webp" tvg-type="VOD Movies",Men In Black 3
+https://media-content.akamaized.net/video/31bfcf304f2690f90fd9dee2c89eaf0ec099fd741fd3d1f78341803a9824aa88/1/dash/h264_high.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlicense.mxplay.com/widevine/proxy?content_id=506c44794111d3e085148cafb0f5b21b967722f620f0523e31388fef240845a0
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/539a62ae9b46e4f441663892cb4245f1/en/2x3/312x468/17e62c872e3780ca18ae7cfef9692db4_1280x1920.webp" tvg-type="VOD Movies",Men In Black 4
+https://media-content.akamaized.net/video/506c44794111d3e085148cafb0f5b21b967722f620f0523e31388fef240845a0/1/dash/h264_high.mpd
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlicense.mxplay.com/widevine/proxy?content_id=84e86901ab0035fb28531ba46803efee3ae34911dcc17ebe16bd568ea44c1925
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/b1e63bdf661f4c026d19fc5865eb0103/en/2x3/312x468/039d2e1924c960afd7363a0069906674_1280x1920.webp" tvg-type="VOD Movies",Total Recall 2012
+https://media-content.akamaized.net/video/84e86901ab0035fb28531ba46803efee3ae34911dcc17ebe16bd568ea44c1925/1/dash/h264_high.mpd
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/c920c47e313e5a2dcce677b686806332/en/2x3/312x468/61de366fd17170857272d376d33145a5_1280x1920.webp" tvg-type="VOD Movies",Automata 2014
+https://d3sgzbosmwirao.cloudfront.net/video/b8f33f1f42a11ed1603018d9a8d954b7/1/hls/h264_high.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/493bb0a8ed9901b70b9720b1f81a9581/en/2x3/312x468/test_pic1738859895933.webp" tvg-type="VOD Movies",Security 2019
+https://d3sgzbosmwirao.cloudfront.net/video/d0b5db092c07b7e091af7cea3e56472bc2b92269890ea6dd23dbfca4aad45ca5/1/hls/h264_high.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://playlicense.mxplay.com/widevine/proxy?content_id=f08892aabac24d17b02c3e653134db987f67fc46ab388a302cca32daaab418c5
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/edfafa78f6d787d46a3e05053059968b/en/2x3/312x468/1666827186ce2daad88bae99a1c71836_1280x1920.webp" tvg-type="VOD Movies",Thir13en Ghosts 2001
+https://media-content.akamaized.net/video/f08892aabac24d17b02c3e653134db987f67fc46ab388a302cca32daaab418c5/1/dash/h264_high.mpd
+
+#EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/c872d91593b007515107579b76aba73e/en/2x3/312x468/1b6e7117fab56431d9b770925a4a9eba_1280x1920_badged_1734670811843.webp" tvg-type="VOD Movies",Robin Hood 2018
+https://d3sgzbosmwirao.cloudfront.net/video/b15805165036c5da4f3d269f0db9ea71/8/hls/h264_high.m3u8
 
 
 
