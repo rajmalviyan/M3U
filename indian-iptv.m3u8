@@ -45,6 +45,7 @@ https://www.youtube.com/watch?v=9cULEEvZAkQ
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/And_TV_logo.png"group-title="हिंदी मनोरंजन",& TV ᴴᴰ
 https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 
+
 #EXTINF:-1 tvg-id="ts40" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="हिंदी मनोरंजन",& TV ᴴᴰ
 http://87.255.35.150:18221
 
@@ -53,9 +54,6 @@ http://87.255.35.150:18803
 
 #EXTINF:-1 tvg-id="ts52" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="हिंदी मनोरंजन", Colors ᴴᴰ
 http://87.255.35.150:18890
-
-#EXTINF:-1 tvg-id="ts52" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="हिंदी मनोरंजन", Colors Super ᴴᴰ
-http://87.255.35.150:18445
 
 #EXTINF:-1 tvg-id="ts438" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey.png" group-title="हिंदी मनोरंजन", Colors Rishtey
 http://87.255.35.150:18886
@@ -66,17 +64,11 @@ http://87.255.35.150:18546
 #EXTINF:-1 tvg-id="291" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="हिंदी मनोरंजन",SET ᴴᴰ
 http://87.255.35.150:18809
 
-#EXTINF:-1 tvg-id="ts559" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="हिंदी मनोरंजन",Sony SAB
-https://bd.drmlive.net/toffee/cdn/live/sonysab_hd/playlist.m3u8
-
 #EXTINF:-1 tvg-id="471" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="हिंदी मनोरंजन",Sony SAB ᴴᴰ
 http://87.255.35.150:18810
 
 #EXTINF:-1 tvg-id="ts554" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="हिंदी मनोरंजन",Sony Pal
 http://87.255.35.150:18887
-
-#EXTINF:-1 tvg-id="ts56" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="हिंदी मनोरंजन", Sony Wah
-https://la.drmlive.net/tp/sliv-wah.m3u8
 
 #EXTINF:-1 tvg-id="ts557" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png" group-title="हिंदी मनोरंजन", Zee TV
 http://87.255.35.150:18849
@@ -84,40 +76,14 @@ http://87.255.35.150:18849
 #EXTINF:-1 tvg-id="ZeeTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png" group-title="हिंदी मनोरंजन",Zee TV (1080p)
 http://87.255.35.150:18951
 
-#EXTINF:-1 tvg-id="ZeePicchar.in@SD" http-referrer="https://onezoo.net" group-title="हिंदी मनोरंजन",Zee Anmol TV (1080p)
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://playyonogames.in/z5/stream.m3u8?id=0-9-zeeanmol
-
-#EXTINF:-1 tvg-id="ts63" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="हिंदी मनोरंजन", Zee TV ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/zee-zeetvhd.m3u8
-
 #EXTINF:-1 tvg-id="ts550" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="हिंदी मनोरंजन", Star Plus
 http://87.255.35.150:18850
-
-#EXTINF:-1 tvg-id="ts8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="हिंदी मनोरंजन", Star Plus ᴴᴰ
-https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
 
 #EXTINF:-1 tvg-id="ts86" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Bharat.png" group-title="हिंदी मनोरंजन", Star Bharat
 http://87.255.35.150:18853
 
 #EXTINF:-1 tvg-id="ts244" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="हिंदी मनोरंजन", Star Bharat ᴴᴰ
 http://87.255.35.150:18555
-
-#EXTINF:-1 tvg-id="ts551" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Utsav.png" group-title="हिंदी मनोरंजन", Star Utsav
-https://live.dinesh29.com.np/stream/jiotvplus/starutsav/master.m3u8
-
-#EXTINF:-1 tvg-id="ts523" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="हिंदी मनोरंजन",Zee Anmol
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/zee-zeeanmol.m3u8
-
-#EXTINF:-1 tvg-id="ts297" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_Magic.png" group-title="हिंदी मनोरंजन",Big Magic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/zee-bigmagic_1786965389.m3u8
-
-#EXTINF:-1 tvg-id="ts51" tvg-logo="https://i.imgur.com/6JTb3cd.png" group-title="हिंदी मनोरंजन",Dangal
-https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6JTb3cd.png" group-title="हिंदी मनोरंजन",Dangal TV
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
@@ -128,23 +94,20 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UNNcOef.png" group-title="हिंदी मनोरंजन",Shemaroo TV
 https://cdn-3.pishow.tv/live/230/master.m3u8
 
-#EXTINF:-1 tvg-id="ts888" tvg-logo="https://dreamdth.com/wp-content/uploads/2021/02/Ishara-TV-1536x864.jpg" group-title="हिंदी मनोरंजन",Ishara TV
-https://epiconvh.akamaized.net/live/ishaara/master.m3u8
-
 #EXTINF:-1 tvg-id="ts818" tvg-logo="https://i.imgur.com/UNNcOef.png" group-title="हिंदी मनोरंजन",Shemaroo TV
 https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts1045" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shemaroo_Umang.png" group-title="हिंदी मनोरंजन",Shemaroo Umang
 https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ts888" tvg-logo="https://dreamdth.com/wp-content/uploads/2021/02/Ishara-TV-1536x864.jpg" group-title="हिंदी मनोरंजन",Ishara TV
+https://epiconvh.akamaized.net/live/ishaara/master.m3u8
+
 #EXTINF:-1 tvg-id="963" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Arre.png" group-title="हिंदी मनोरंजन",Arre
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/arre/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/p_pktflm.png" group-title="हिंदी मनोरंजन",Pocket Films
 https://liveplay-g.instreamo.jio.com/hls/view-playlist/v2/afd09ad5-b428-4423-8751-1c408c3a2e17/runntv/stream/p_pktflm/playlist.m3u8?api-key=8947ccdd-cef1-400a-9714-aa4837a6ce8c
-
-#EXTINF:-1 tvg-id="ts54" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TheQIndia.png" group-title="हिंदी मनोरंजन",The Q
-https://liveplay-g.instreamo.jio.com/hls/view-playlist/v2/fa2f92e3-67bb-4e68-b602-c67d631f5d96/main.m3u8?api-key=a4051010-e094-4701-9d16-77481226f70a
 
 #EXTINF:-1 tvg-id="ts1184" tvg-logo="https://www.epicon.in/img/nazara-logo.png" group-title="हिंदी मनोरंजन",Nazara
 https://epiconvh.akamaized.net/live/nazara/master.m3u8
@@ -167,15 +130,6 @@ https://yupptv-chanajor.akamaized.net/ptnr-yupptv/title-Chanajor/v1/master/611d7
 #EXTINF:-1 tvg-id="3029" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2024/03/ChatGPT-Image-Apr-14-2025-03_19_13-PM.png" group-title="हिंदी मनोरंजन",Bollywood Masala
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-masala/index.m3u8
 
-#EXTINF:-1 tvg-id="PublicTV.in@SD" group-title="हिंदी मनोरंजन",Public TV (720p)
-https://cdn-3.pishow.tv/live/439/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cFNw4Af.png" group-title="हिंदी मनोरंजन",MNTV (1080p)
-https://mntv.livebox.co.in/mntvhls/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="हिंदी मनोरंजन",Epic
-http://103.168.18.83:80/zan/app/ts_live_481.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h1Ofnon.png" group-title="हिंदी मनोरंजन",Epic TV (1080p)
 https://epiconvh.akamaized.net/live/epic/master.m3u8
 
@@ -185,17 +139,8 @@ https://cdn-1.pishow.tv/live/224/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0VS4QN.png" group-title="हिंदी मनोरंजन",Fakt Marathi (720p) [Not 24/7]
 https://cdn-6.pishow.tv/live/10002/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UNNcOef.png" group-title="हिंदी मनोरंजन",Shemaroo TV (720p)
-https://cdn-3.pishow.tv/live/230/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q8ajPij.png" group-title="हिंदी मनोरंजन",Star Bharat HD (1080p)
-https://live.dinesh29.com.np/stream/jiotvplus/starbharathd/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H1jhHDl.png" group-title="हिंदी मनोरंजन",Star Utsav (576p)
-https://live.dinesh29.com.np/stream/jiotvplus/starutsav/master.m3u8
-
-#EXTINF:-1 tvg-id="ZeeCinema.in@SD" group-title="हिंदी मनोरंजन",Zee Cinema (1080p) [Geo-blocked]
-https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d3s2p39m306u7r.cloudfront.net/atrangii/LG/Atrangii_FullandFinal.png"  group-title="हिंदी मनोरंजन",204 Atrangii
+https://amg13343-amg13343c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13343-amg13343c1-amgplt0173/playlist.m3u8?ads.ip=[IP]&ads.usprivacy=[US_PRIVACY]&ads.devicetype=[DEVICE_TYPE]&ads.targetad=[TARGETAD_ALLOWED]&ads.ua=[UA]&ads.ifa=[IFA]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.country=[COUNTRY]&ads.donotsell=[DNS]&ads.gdprconsent=[GDPR_CONSENT]&ads.lat=[LMT]&coppa=0&ads.appstoreurl=[APP_STOREURL]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.ifatype=[IFA_TYPE]&ads.bundleid=[APP_BUNDLE]&ads.deviceid=[DEVICE_ID]&ads.gdpr=[GDPR]
 
 #EXTINF:-1 tvg-id="ZeeCinema.in@SD" group-title="हिंदी मनोरंजन",colors Marathi
 http://87.255.35.150:18233
@@ -212,34 +157,14 @@ http://87.255.35.150:18447
 #EXTINF:-1 tvg-id="ZeeCinema.in@SD" group-title="हिंदी मनोरंजन",Colors Gujrarti 
 http://87.255.35.150:18230
 
-##EXTINF:-1 tvg-id="ZeeTalkies.in@SD" http-referrer="https://onezoo.net" group-title="हिंदी फिल्में",Zee Talkies (1080p)
-##EXTVLCOPT:http-referrer="https://onezoo.net"
-##KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-#https://playyonogames.in/z5/stream.m3u8?id=0-9-zeetalkies
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/5minutecraft/5min_Craft_resized_400x200.png"  group-title="हिंदी मनोरंजन",315 5-minute Crafts
+https://amg02051-soulpublishing-amg02051c7-lg-in-1018.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsenglish-lgin/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
 
-##EXTINF:-1 tvg-id="AndxplorHD.in@SD" http-referrer="https://onezoo.net" group-title="हिंदी फिल्में",&xplor HD (1080p)
-##EXTVLCOPT:http-referrer="https://onezoo.net"
-##KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-#https://playyonogames.in/z5/stream.m3u8?id=0-9-209
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/123go/123go_logo_resized_400x200.png"  group-title="हिंदी मनोरंजन",316 123 GO!
+https://amg02051-soulpublishing-amg02051c17-lg-in-1190.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123goenglish-lgin/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
 
-##EXTINF:-1 tvg-id="Andpictures.in@SD" http-referrer="https://onezoo.net" group-title="हिंदी फिल्में",&pictures (1080p)
-##EXTVLCOPT:http-referrer="https://onezoo.net"
-##KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-#https://playyonogames.in/z5/stream.m3u8?id=0-9-tvpictureshd
-
-##EXTINF:-1 tvg-id="ZeePicchar.in@SD" http-referrer="https://onezoo.net" group-title="हिंदी फिल्में",Zee Bollywood (1080p)
-##EXTVLCOPT:http-referrer="https://onezoo.net"
-##KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-#https://playyonogames.in/z5/stream.m3u8?id=0-9-zeeclassic
-
-##EXTINF:-1 tvg-id="ZeePicchar.in@SD" http-referrer="https://onezoo.net" group-title="हिंदी फिल्में",Zee Talkies (1080p)
-##EXTVLCOPT:http-referrer="https://onezoo.net"
-##KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-#https://playyonogames.in/z5/stream.m3u8?id=0-9-zeetalkies
-
-##EXTINF:-1 tvg-id="ts1183" tvg-logo="https://exchange4media.gumlet.io/news-photo/98204-xplore.jpg" group-title="हिंदी फिल्में", & Xplor ᴴᴰ
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#https://la.drmlive.net/tp/zee-209.m3u8
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/bfMpu5p_N6Hrdf13VuNdoNBgbuckMZv8i0qLaWJUAk9CbWd38TSwUppXKdkvQjYcpNyJscVJ=s160-c-k-c0x00ffffff-no-rj" group-title="हिंदी मनोरंजन",Comedy King
+https://amg01448-samsungindia-amg01448c6-samsung-in-2297.playouts.now.amagi.tv/playlist/amg01448-samsungindia-comedyking-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts148" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures.png" group-title="हिंदी फिल्में", & Pictures
 http://87.255.35.150:18510
@@ -257,14 +182,6 @@ http://87.255.35.150:18465
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/878/103/png-transparent-zee-cinema-television-channel-zee-tv-zee-entertainment-enterprises-cinema-logo-television-text-bollywood-thumbnail.png"group-title="हिंदी फिल्में",Zee Cinema
 https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
 
-##EXTINF:-1 tvg-id="ts123" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="हिंदी फिल्में",Zee Cinema
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#https://la.drmlive.net/tp/zee-zeecinema.m3u8
-
-##EXTINF:-1 tvg-id="ts503" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="हिंदी फिल्में",Zee Cinema ᴴᴰ
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#https://la.drmlive.net/tp/zee-zeecinemahd.m3u8
-
 #EXTINF:-1 tvg-id="ts7" tvg-logo="https://www.zeebollymovies.zeeafrica.tv/images/ZBM/Icons/zbm-logo-200pxh.png" group-title="हिंदी फिल्में",Zee Bollymovies
 https://amg17931-zee-amg17931c8-samsung-ph-6525.playouts.now.amagi.tv/playlist.m3u8
 
@@ -277,39 +194,11 @@ http://87.255.35.150:18859
 #EXTINF:-1 tvg-id="ts163" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2.png" group-title="हिंदी फिल्में",Star Gold 2
 http://87.255.35.150:18807
 
-##EXTINF:-1 tvg-id="ts1072" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" group-title="हिंदी फिल्में",Star Gold 2 ᴴᴰ
-#https://live.dinesh29.com.np/stream/jiotvplus/stargold2hd/master.m3u8
-
-##EXTINF:-1 tvg-id="ts461" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Select.png" group-title="हिंदी फिल्में",Star Gold Select
-#https://live.dinesh29.com.np/stream/jiotvplus/stargoldselect/master.m3u8
-
 #EXTINF:-1 tvg-id="ts595" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="हिंदी फिल्में",Star Gold Select ᴴᴰ
 http://87.255.35.150:18429
 
-##EXTINF:-1 tvg-id="ts493" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Romance.png" group-title="हिंदी फिल्में",Star Gold Romance
-#https://live.dinesh29.com.np/stream/jiotvplus/stargoldromance/master.m3u8
-
-##EXTINF:-1 tvg-id="ts494" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png" group-title="हिंदी फिल्में",Star Gold Thrills
-#https://live.dinesh29.com.np/stream/jiotvplus/stargoldthrills/master.m3u8
-
-##EXTINF:-1 tvg-id="ts470" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Utsav_Movies.png" group-title="हिंदी फिल्में",Star Utsav Movies
-#https://live.dinesh29.com.np/stream/jiotvplus/starutsavmovies/master.m3u8
-
 #EXTINF:-1 tvg-id="ts61" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="हिंदी फिल्में",Colors Cineplex ᴴᴰ
 http://87.255.35.150:18296
-
-##EXTINF:-1 tvg-id="ts53" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="हिंदी फिल्में",Colors Cineplex
-#https://live.dinesh29.com.np/stream/jiotv/colorscineplex/master.m3u8
-
-##EXTINF:-1 tvg-id="ts1000" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="हिंदी फिल्में",Colors Cineplex Bollywood
-#http://103.182.170.32:8888/play/a01o
-
-##EXTINF:-1 tvg-id="ts1000" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="हिंदी फिल्में",Colors Cineplex Superhits
-#http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHLS/index.m3u8
-
-##EXTINF:-1 tvg-logo="https://www.sonymax1.com/assets/images/sonymax1.png" group-title="हिंदी फिल्में",Sony Max 1
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
-#https://m3u.ygxworld.in/p/KzfbmDpUTHxO/tp/96133332/master.m3u8|Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 
 #EXTINF:-1 tvg-id="483" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="हिंदी फिल्में", Sony Max 2
 http://87.255.35.150:18841
@@ -317,20 +206,15 @@ http://87.255.35.150:18841
 #EXTINF:-1 tvg-id="ts100" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png?20230801125521" group-title="हिंदी फिल्में", Zee Action
 http://87.255.35.150:18507
 
-##EXTINF:-1 tvg-id="ts64" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="हिंदी फिल्में", Zee Anmol Cinema
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#https://la.drmlive.net/tp/zee-zeeanmolcinema.m3u8
 
-##EXTINF:-1 tvg-id="ts12" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Ganga.png" group-title="हिंदी फिल्में", Zee Anmol Cinema 2
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#https://la.drmlive.net/tp/zee-bigganga.m3u8
+##EXTINF:-1 tvg-id="ts53" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="हिंदी फिल्में",Colors Cineplex
+#https://live.dinesh29.com.np/stream/jiotv/colorscineplex/master.m3u8
+
+##EXTINF:-1 tvg-id="ts1000" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="हिंदी फिल्में",Colors Cineplex Bollywood
+#http://103.182.170.32:8888/play/a01o
 
 #EXTINF:-1 tvg-id="ts175" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="हिंदी फिल्में", Zee Bollywood
 http://87.255.35.150:18861
-
-##EXTINF:-1 tvg-id="ts727" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic_SD.png" group-title="हिंदी फिल्में", Zee Classic
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#https://la.drmlive.net/tp/zee-176.m3u8
 
 #EXTINF:-1 tvg-id="ts7" tvg-logo="https://media.istockphoto.com/id/1253945862/vector/sale2.jpg?s=612x612&w=0&k=20&c=VTvCdHZZXQJjtMKvAMU0x7bdoQAhnIYkvFft4Af2aUM=" group-title="हिंदी फिल्में", Bollywood Cinema
 https://live20.bozztv.com/giatvplayout7/giatv-209593/index.m3u8
@@ -341,17 +225,23 @@ https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 #EXTINF:-1 tvg-id="ts1050" tvg-logo="https://the-media-ant.mo.cloudinary.net/medias/61e549419a097e44b3cfb289/1642421802122/Abzy-movies%20logo%201_logo.jpg" group-title="हिंदी फिल्में", ABZY Movies
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8
 
-#EXTINF:-1 tvg-id="ts730" tvg-logo="https://i.imgur.com/CKLn0ft.png" group-title="हिंदी फिल्में",B4U Kadak
-https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="हिंदी फिल्में",B4U Movies
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
 
-#EXTINF:-1 tvg-id="ts7" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="हिंदी फिल्में",B4U Movies
-https://app.hughag.store/api/33d888b898/playlist.m3u8
+#EXTINF:-1 tvg-id="ts7" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="SmartTV HD",B4U Movie
+https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
 
-##EXTINF:-1 tvg-id="3075" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="हिंदी फिल्में",Sheemaroo Bollywood
-#https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/master.m3u8
+#EXTINF:-1 tvg-id="ts7" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="SmartTV HD",B4U Movies
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ts730" tvg-logo="https://i.imgur.com/CKLn0ft.png" group-title="हिंदी फिल्में",B4U Kadak
+https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
+
+#EXTINF:-1 tvg-id="ts730" tvg-logo="https://i.imgur.com/CKLn0ft.png" group-title="SmartTV HD",B4U Kadak
+https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ts730" tvg-logo="https://i.imgur.com/CKLn0ft.png" group-title="SmartTV HD",B4U Kadak
+https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4ukadak-lgin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts7" tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-hd/logo_20231219_184845_51.png" group-title="हिंदी फिल्में",Bollywood ᴴᴰ
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
@@ -359,13 +249,16 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 group-title="हिंदी फिल्में" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bollywood%20HD.png",BOLLYWOOD HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
+#EXTINF:-1 tvg-id="ts7" tvg-logo="https://i.imgur.com/bEMUpHZ.png" group-title="हिंदी फिल्में",BOLLYWOOD MOVIES
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991756
+
 #EXTINF:-1 tvg-id="ts1499" tvg-logo="https://images.squarespace-cdn.com/content/v1/63f66748474ef363a52a0c2a/cb43444c-32cc-4b78-b747-980a59481418/IMG_6219.JPG" group-title="हिंदी फिल्में",Bollywood Classic ᴴᴰ
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
 #EXTINF:-1 group-title="हिंदी फिल्में" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Bollywood_Clasic_%282018%29.svg/revision/latest?cb=20181116224354",CLASSIC BOLLYWOOD
 https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
-#EXTINF:-1 tvg-id="ts1499" group-title="हिंदी फिल्में" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw36_jUEne2nn6bLwxZrJA9Sfi_ch2f6FXqQ&s",Hindi Dubbing Movies
+#EXTINF:-1 tvg-id="ts1499" group-title="हिंदी फिल्में" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw36_jUEne2nn6bLwxZrJA9Sfi_ch2f6FXqQ&s",Hindi Dubbed Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 
 #EXTINF:-1 tvg-id="ts7" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2023/12/ChatGPT-Image-Apr-14-2025-03_33_06-PM.png" group-title="हिंदी फिल्में",Desi Play TV
@@ -386,20 +279,52 @@ https://playout.runn.tv/playout/v1/stream/p_cinshf/playlist.m3u8
 #EXTINF:-1 tvg-id="ts7" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2024/09/ChatGPT-Image-Apr-14-2025-03_07_08-PM.png" group-title="हिंदी फिल्में",Xumo Bollywood & Indian Cinema
 https://dbrb49pjoymg4.cloudfront.net/10001/99991756/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991756
 
-#EXTINF:-1  tvg-id="ts7" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-30-2025-10_59_10-AM.png" group-title="हिंदी फिल्में",Runn Thrillers
-https://f15f7fbdcd084ff3abb9dc148b69d8b4.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/RUNTHR/index.m3u8
-
-#EXTINF:-1 tvg-id="ts7" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-30-2025-10_10_38-AM.png" group-title="हिंदी फिल्में",Runn Thrillers Action
-https://d75f61259af04d9ea002d5429c934854.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/RUNACT/index.m3u8
-
-#EXTINF:-1 tvg-id="ts7" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2025/07/ChatGPT-Image-Jul-7-2025-12_42_53-PM.png" group-title="हिंदी फिल्में",Superfine Films
-https://supflm.cdn.runn.tv/runntv/stream/p_supjio/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ts7" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-30-2025-10_05_06-AM.png" group-title="हिंदी फिल्में",NH Bollyflix
 https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts7" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-30-2025-11_10_53-AM.png" group-title="हिंदी फिल्में",NH Bollygold
 https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ts7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC43000071R_20240522T015915SQUARE.png" group-title="हिंदी फिल्में",HOLLYWOOD DESI
+https://jmp2.uk/stvp-IN3800010SH
+
+#EXTINF:-1 tvg-id="ts624" tvg-logo="https://i.imgur.com/E8MPUM7.png" group-title="हिंदी फिल्में",Pitaara
+https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh2ojUt5Cv1rorb_pgnwxIbTm13tKGQzABQ6YBuggStYHOE7D-C3C9yxMFnpPZi1XocZrKFpzX_Q9YKhbkBUFlOuLbxdaCdHjBlGWlTaV7y5So6QkIGT3DhHJ-U49oWV5SNkvK3kmZjbfoqpqqfajYeJFYoUjm3GduVAcViFmgBoG5foIgghk0yNKHA=w400-h226-rw" group-title="हिंदी फिल्में",Manoranjan Grand
+https://cdn-1.pishow.tv/live/1011/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh2ojUt5Cv1rorb_pgnwxIbTm13tKGQzABQ6YBuggStYHOE7D-C3C9yxMFnpPZi1XocZrKFpzX_Q9YKhbkBUFlOuLbxdaCdHjBlGWlTaV7y5So6QkIGT3DhHJ-U49oWV5SNkvK3kmZjbfoqpqqfajYeJFYoUjm3GduVAcViFmgBoG5foIgghk0yNKHA=w400-h226-rw" group-title="हिंदी फिल्में",Manoranjan Movies
+https://cdn-2.pishow.tv/live/228/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh2ojUt5Cv1rorb_pgnwxIbTm13tKGQzABQ6YBuggStYHOE7D-C3C9yxMFnpPZi1XocZrKFpzX_Q9YKhbkBUFlOuLbxdaCdHjBlGWlTaV7y5So6QkIGT3DhHJ-U49oWV5SNkvK3kmZjbfoqpqqfajYeJFYoUjm3GduVAcViFmgBoG5foIgghk0yNKHA=w400-h226-rw" group-title="हिंदी फिल्में",Manoranjan TV
+https://cdn-1.pishow.tv/live/1013/master.m3u8
+
+#EXTINF:-1 group-title="हिंदी फिल्में" tvg-logo="https://i.ibb.co/7nT3j6X/20240816-213443.png",Shemaroo BOLLYWOOD
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7nT3j6X/20240816-213443.png" group-title="हिंदी फिल्में",Shemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2023/08/ChatGPT-Image-Sep-4-2025-08_21_25-AM-1.jpg" group-title="हिंदी फिल्में",Shemaroo Josh
+https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png" "हिंदी फिल्में",201 Zee Dil Se
+https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0
+
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png" group-title="हिंदी फिल्में",202 Zee Comedy Nation
+https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0
+
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zhornights.png" group-title="हिंदी फिल्में",203 Zee Horror Nights
+https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0
+
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-title="हिंदी फिल्में",Zee South Flix
+https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0
+
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png"  group-title="हिंदी फिल्में", Zee Cine Classic
+https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0
+
+#EXTINF:-1 tvg-id="ts7" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2025/07/ChatGPT-Image-Jul-7-2025-12_42_53-PM.png" group-title="हिंदी फिल्में",Superfine Films
+https://supflm.cdn.runn.tv/runntv/stream/p_supjio/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts7" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2025/05/ChatGPT-Image-May-24-2025-05_22_38-PM.png" group-title="हिंदी फिल्में",Dhamaka Movies
 https://cdn-1.pishow.tv/live/235/master.m3u8
@@ -419,72 +344,8 @@ https://ssailive.vgcdn.net/ptnr-web/title-BBO_Classic/sg/v1/master/611d79b11b77e
 #EXTINF:-1 tvg-id="ts7" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2023/12/ChatGPT-Image-Apr-14-2025-03_38_13-PM.png" group-title="हिंदी फिल्में",Bollywood 4U
 https://streams2.sofast.tv/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/manifest.m3u8
 
-#EXTINF:-1 tvg-id="ts7" tvg-logo="https://i.imgur.com/bEMUpHZ.png" group-title="हिंदी फिल्में",BOLLYWOOD MOVIES
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991756
-
-#EXTINF:-1 tvg-id="ts7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC43000071R_20240522T015915SQUARE.png" group-title="हिंदी फिल्में",HOLLYWOOD DESI
-https://jmp2.uk/stvp-IN3800010SH
-
-#EXTINF:-1 tvg-id="ts624" tvg-logo="https://i.imgur.com/E8MPUM7.png" group-title="हिंदी फिल्में",Pitaara
-https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gaKzWdo.png" group-title="हिंदी फिल्में",Boogle Bollywood
-https://live.dinesh29.com.np/stream/jiotv/booglebollywood/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh2ojUt5Cv1rorb_pgnwxIbTm13tKGQzABQ6YBuggStYHOE7D-C3C9yxMFnpPZi1XocZrKFpzX_Q9YKhbkBUFlOuLbxdaCdHjBlGWlTaV7y5So6QkIGT3DhHJ-U49oWV5SNkvK3kmZjbfoqpqqfajYeJFYoUjm3GduVAcViFmgBoG5foIgghk0yNKHA=w400-h226-rw" group-title="हिंदी फिल्में",Manoranjan Grand
-https://cdn-1.pishow.tv/live/1011/master.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh2ojUt5Cv1rorb_pgnwxIbTm13tKGQzABQ6YBuggStYHOE7D-C3C9yxMFnpPZi1XocZrKFpzX_Q9YKhbkBUFlOuLbxdaCdHjBlGWlTaV7y5So6QkIGT3DhHJ-U49oWV5SNkvK3kmZjbfoqpqqfajYeJFYoUjm3GduVAcViFmgBoG5foIgghk0yNKHA=w400-h226-rw" group-title="हिंदी फिल्में",Manoranjan Movies
-https://cdn-2.pishow.tv/live/228/master.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh2ojUt5Cv1rorb_pgnwxIbTm13tKGQzABQ6YBuggStYHOE7D-C3C9yxMFnpPZi1XocZrKFpzX_Q9YKhbkBUFlOuLbxdaCdHjBlGWlTaV7y5So6QkIGT3DhHJ-U49oWV5SNkvK3kmZjbfoqpqqfajYeJFYoUjm3GduVAcViFmgBoG5foIgghk0yNKHA=w400-h226-rw" group-title="हिंदी फिल्में",Manoranjan TV
-https://cdn-1.pishow.tv/live/1013/master.m3u8
-
-#EXTINF:-1 group-title="हिंदी फिल्में" tvg-logo="https://i.ibb.co/7nT3j6X/20240816-213443.png",Shemaroo BOLLYWOOD
-https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7nT3j6X/20240816-213443.png" group-title="हिंदी फिल्में",Shemaroo Bollywood
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2023/08/ChatGPT-Image-Sep-4-2025-08_21_25-AM-1.jpg" group-title="हिंदी फिल्में",Shemaroo Josh
-https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hvvjfk5.png" group-title="हिंदी फिल्में",Colors Cineplex (1080p)
-https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EbHSQAJ.png" group-title="हिंदी फिल्में",Colors Cineplex Bollywood (576p)
-https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="हिंदी फिल्में",Colors Cineplex Superhits (576p)
-https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHLS/index.m3u8
-
-##EXTINF:-1 tvg-logo="https://i.imgur.com/T76S4x3.png" group-title="हिंदी फिल्में",Pravah Picture HD (1080p)
-#https://live.dinesh29.com.np/stream/jiotvplus/starpravahpicturehd/master.m3u8
-
-##EXTINF:-1 tvg-logo="https://i.imgur.com/xC460sj.png" group-title="हिंदी फिल्में",Star Gold HD (1080p)
-#https://live.dinesh29.com.np/stream/jiotvplus/stargoldhd/master.m3u8
-
-##EXTINF:-1 tvg-logo="https://i.imgur.com/gSWv9U3.png" group-title="हिंदी फिल्में",Star Gold Romance (576p)
-#https://live.dinesh29.com.np/stream/jiotvplus/stargoldromance/master.m3u8
-
-##EXTINF:-1 tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="हिंदी फिल्में",Star Gold Select HD (1080p)
-#https://live.dinesh29.com.np/stream/jiotvplus/stargold2hd/master.m3u8
-
-##EXTINF:-1 tvg-logo="https://i.imgur.com/azqtpYh.png" group-title="हिंदी फिल्में",Star Gold Thrills (576p)
-#http://116.90.120.149:8000/play/a0c0/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png",201 Zee Dil Se
-https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0
-
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png" group-title="हिंदी फिल्में",202 Zee Comedy Nation
-https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0
-
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zhornights.png" group-title="हिंदी फिल्में",203 Zee Horror Nights
-https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0
-
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png" group-title="हिंदी फिल्में",Zee South Flix
-https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0
-
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png"  group-title="हिंदी फिल्में", Zee Cine Classic
-https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/Capemay/Panic TV Logo 400x200.png"  group-title="हिंदी फिल्में",293 Panic TV
+https://amg27164-amg27164c1-amgplt0173.playout.now3.amagi.tv/playlist/amg27164-amg27164c1-amgplt0173/playlist.m3u8?ads.gdprconsent=[GDPR_CONSENT]&ads.usprivacy=[US_PRIVACY]&ads.bundleid=[APP_BUNDLE]&ads.deviceid=[DEVICE_ID]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.lat=[LMT]&ads.targetad=[TARGETAD_ALLOWED]&ads.ua=[UA]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.country=[COUNTRY]&ads.ifatype=[IFA_TYPE]&coppa=0&ads.appstoreurl=[APP_STOREURL]&ads.donotsell=[DNS]&ads.gdpr=[GDPR]&ads.ifa=[IFA]&ads.ip=[IP]&ads.devicetype=[DEVICE_TYPE]
 
 #EXTINF:-1 group-title="संगीत" tvg-logo="https://static.vecteezy.com/system/resources/previews/000/579/872/non_2x/music-symbols-logo-and-icons-template-vector.jpg",HINDI HITS HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
@@ -811,28 +672,14 @@ https://server.livelegitpro.in/aajkikhabar/aajkikhabar/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="cnbctv18prime" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/cnbctv18prime.png" group-title="समाचार",CNBC TV18 Prime
 https://live.dinesh29.com.np/stream/jiotv/cnbctv18prime/master.m3u8
 
-#EXTINF:-1 tvg-id="DDNational.in@HD" group-title="दूरदर्शन",DD National HD (1080p)
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+#EXTINF:-1 tvg-logo="https://d3s2p39m306u7r.cloudfront.net/tvtn/Lg-images/LT%20400x200.png" group-title="समाचार",205 Lallantop
+https://amg00644-amg00644c4-amgplt0173.playout.now3.amagi.tv/playlist/amg00644-amg00644c4-amgplt0173/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
 #EXTINF:-1 tvg-id="Andflix.in@SD" group-title="English Movies",&flix (480p)
 https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8
 
-##EXTINF:-1 tvg-id="ts506" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png" group-title="English Movies", & Flix ᴴᴰ
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#https://la.drmlive.net/tp/zee-channel_2105335046.m3u8
-
 #EXTINF:-1 tvg-id="ts530" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png" group-title="English Movies", & Prive ᴴᴰ
 http://87.255.35.150:18494
-
-##EXTINF:-1 tvg-id="AndpriveHD.in@SD" http-referrer="https://onezoo.net" group-title="English Movies",&prive HD (1080p)
-##EXTVLCOPT:http-referrer="https://onezoo.net"
-##KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-#https://playyonogames.in/z5/stream.m3u8?id=0-9-9z5543514
-
-##EXTINF:-1 tvg-id="Andflix.in@SD" http-referrer="https://onezoo.net" group-title="English Movies",&flix (1080p)
-##EXTVLCOPT:http-referrer="https://onezoo.net"
-##KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-#https://playyonogames.in/z5/stream.m3u8?id=0-9-channel_2105335046
 
 #EXTINF:-1 tvg-id="ts32" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="English Movies",Sony PIX ᴴᴰ
 http://87.255.35.150:18495
@@ -852,34 +699,20 @@ http://87.255.35.150:18548
 #EXTINF:-1  tvg-id="ts7" tvg-logo="https://stmify.com/wp-content/uploads/2024/08/81-s.webp" group-title="English Movies",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-##EXTINF:-1 tvg-id="" tvg-logo="" group-title="English Movies",Sony Comedias
-#https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-id="ts7" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-30-2025-10_59_10-AM.png" group-title="English Movies",Runn Thrillers
+https://f15f7fbdcd084ff3abb9dc148b69d8b4.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/RUNTHR/index.m3u8
 
-##EXTINF:-1 tvg-id="" tvg-logo="" group-title="English Movies",Sony Novelas
-#https://spt-sonyonenovelas-1-mx.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ts7" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-30-2025-10_10_38-AM.png" group-title="English Movies",Runn Thrillers Action
+https://d75f61259af04d9ea002d5429c934854.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/RUNACT/index.m3u8
 
 #EXTINF:-1 tvg-id="ts544" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" group-title="English Movies",Colors Infinity
 http://87.255.35.150:18838
-
-#EXTINF:-1 tvg-id="ts187" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="English Movies",Colors Infinity ᴴᴰ
-http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsInfinityHD/JCHLS/index.m3u8
-
-#EXTINF:-1 tvg-id="ts187" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000147D_20250625T011521SQUARE.png" group-title="English Movies",Colors Infinity Lite
-https://jmp2.uk/stvp-IN26000147D
-
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-##EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/sE1nCEC.png?v=1.0.0.1" group-title="Food", DENS Food Channel
-#http://cdn.nng.cloudns.us/live/m3u8/id/dfc160946781414.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Zee_Caf%C3%A9_2025.svg/330px-Zee_Caf%C3%A9_2025.svg.png" group-title="English Movies",Zee Cafe
 http://87.255.35.150:18547
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Zee_Caf%C3%A9_2025.svg/330px-Zee_Caf%C3%A9_2025.svg.png" group-title="English Movies",MNX
 http://87.255.35.150:18936
-
-##EXTINF:-1 tvg-id="ts502" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="English Movies", Zee Café ᴴᴰ
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#https://la.drmlive.net/tp/zee-zeecafehd.m3u8
 
 #EXTINF:-1 tvg-id="ts7" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/HerSphereByLionsgate.png" group-title="English Movies",HERSPHERE BY LIONSGATE
 https://raw.githubusercontent.com/mystery75/m3u8/main/HERSPHERE.m3u8
@@ -907,10 +740,6 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/IONMYSTERY.m3u8
 
 #EXTINF:-1 tvg-id="USBD300003LK" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/IonPlus.png" group-logo="" group-logo="" group-title="English Movies",ion Plus
 https://raw.githubusercontent.com/mystery75/m3u8/main/IONPLUS.m3u8
-#####https://linear-433.frequency.stream/433/hls/master/playlist.m3u8
-
-#####EXTINF:-1 tvg-id="USBD2500012DH" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/EbonyByLionsgate.png" group-logo="" group-title="English Movies",Ebony by Lionsgate
-https://raw.githubusercontent.com/mystery75/m3u8/main/EBONY.m3u8	
 
 #EXTINF:-1 tvg-id="ts336" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sahayadri.png" group-title="दूरदर्शन",DD Sahyadri
 https://cdn-3.pishow.tv/live/30/master.m3u8
@@ -938,9 +767,6 @@ https://cdn-1.pishow.tv/live/10/master.m3u8
 
 #EXTINF:-1 tvg-id="ts223" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="दूरदर्शन",DD Sports 1.0
 http://87.255.35.150:18922
-
-#EXTINF:-1 tvg-id="ts223" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="दूरदर्शन",DD Sports
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zNJKdRf.png" group-title="ज्ञान",History TV18 HD (1080p) [Geo-blocked]
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
@@ -1181,6 +1007,9 @@ https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="बच्चा पार्टी",Animax [Geo-blocked]
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/comedytadka/logo/Comedytadka-400x200.png" group-title="बच्चा पार्टी",206 COMEDYTADKA
+https://vglivessai.akamaized.net/ptnr-lg/title-COMEDY_TADKA-LGIndia/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/79a85c7e-a12a-4739-a575-66b4684f91fa/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.usprivacy=[US_PRIVACY]&fck=[FCK]&viewsize=[VIEWSIZE]&ads.dmake=[DEVICE_MAKE]
+
 #EXTINF:-1 tvg-id="pmevidya01" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/pmevidya01.png" group-title="ज्ञान",PM e Vidya 01
 https://live.dinesh29.com.np/stream/jiotv/pmevidya01/master.m3u8
 
@@ -1412,79 +1241,25 @@ https://live.dinesh29.com.np/stream/jiotv/restfulsleep/master.m3u8
 #EXTINF:-1 tvg-id="restfulsleep" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/restfulsleep.png" group-title="जीवन शैली",Animal Planet
 http://87.255.35.150:18423
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/hdmovie2.plumbing/wp-content/uploads/2025/09/kzSVbSHEaIavcHZr1B9QEHq6a7.jpg" group-title="On-Demand",Sunny Sanskari Ki Tulsi Kumari (2025)
+#EXTINF:-1 tvg-logo="https://i0.wp.com/hdmovie2.plumbing/wp-content/uploads/2025/09/kzSVbSHEaIavcHZr1B9QEHq6a7.jpg" group-title="MX-Hindi Movies" tvg-logo="" tvg-type="VOD Movies",Sunny Sanskari Ki Tulsi Kumari (2025)
 https://i-cdn-0.sidev385wiz.com/stream2/i-cdn-0/7658751d91d49c066f61700a8dbbf660/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2pFRJBTWykVMaRUV0oFVZJjTykFMadUT00kMahmTEFFeZpWT31kaBBTWy0UP:1761483433:103.157.123.209:254246519ffb32da76f50ee2553691e5a75d1529a4db4469c481a95661651d51/1080/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://allmovieland.ac/uploads/posts/2025-05/_2025-05-02_140710861.png" group-title="On-Demand",HIT: The 3rd Case
+#EXTINF:-1 tvg-logo="https://allmovieland.ac/uploads/posts/2025-05/_2025-05-02_140710861.png" group-title="MX-Hindi Movies" tvg-logo="" tvg-type="VOD Movies",HIT: The 3rd Case
 https://i-cdn-0.ginni386kex.com/stream2/i-cdn-0/7658751d91d49c066f61700a8dbbf660/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT29ERaxmTXZFbNRlQq5ERRFjWEl1dOpnSq1EVOxmWE1keNdVRykleFJjWHVUP:1761755485:103.157.123.209:84c99bd5a80f78ac73cace06230f5ee49bdd6b78f830d9c4c5617f603f8e2eb7/1080/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://allmovieland.ac/uploads/posts/2025-04/980477_poster_1745934011.jpg" group-title="On-Demand",Ne Zha 2(2025)
+#EXTINF:-1 tvg-logo="https://allmovieland.ac/uploads/posts/2025-04/980477_poster_1745934011.jpg" group-title="MX-Hindi Movies" tvg-logo="" tvg-type="VOD Movies",Ne Zha 2(2025)
 https://i-cdn-0.sidev385wiz.com/stream2/i-cdn-0/7658751d91d49c066f61700a8dbbf660/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25EVZpXTU50aNRUR180RVlnWEFFePRVW31kMaxWTElleadUW350RalmWq1UP:1761595682:103.157.123.209:e7613d43f513a38846907883f58fe5d329d7bc0a8318ed26930178650606bbf4/1080/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://allmovieland.ac/uploads/posts/2025-09/1525484_poster_1757908590.jpg" group-title="On-Demand",Ek Chatur Naar (2025)
+#EXTINF:-1 tvg-logo="https://allmovieland.ac/uploads/posts/2025-09/1525484_poster_1757908590.jpg" group-title="MX-Hindi Movies" tvg-logo="" tvg-type="VOD Movies",Ek Chatur Naar (2025)
 https://i-cdn-0.ginni386kex.com/stream2/i-cdn-0/7658751d91d49c066f61700a8dbbf660/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25ERVpnTqlEMOREbp5kMZRjWUFVePdUW00kejNTWy0keOpWQ0o1VNhXTtVVP:1761753662:103.157.123.209:c016f61b7fb7da16142d95eef27ea2dbb242ccec1ba14e8437c9b8266317a3c9/1080/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/eezI7a6PBPInXZVlFxBVaIc0iMc.jpg" group-title="On-Demand",Baaghi 4 (2025)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/eezI7a6PBPInXZVlFxBVaIc0iMc.jpg" group-title="MX-Hindi Movies" tvg-logo="" tvg-type="VOD Movies",Baaghi 4 (2025)
 https://hdm2.ink/playlist/eGhlMmorODVPR09nSERxTVJ4NnV5cU9BKzUwbVRDSGtOQlZnNjNTdFIzTUtadXM0bDRXbE56bjE0R3RYN2ZpdWdYTDMvdUtXSlhqMmh5bHh1U285VUE9PQ?tok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJoZG0yLmluayIsImlhdCI6MTc2MTc0MjA1OCwiZXhwIjoxNzYxNzQyOTU4LCJzbHVnIjoiU0swUUEiLCJ0eXBlIjoicXVhbGl0eV90b2tlbiJ9.7_a3_Bo_PvnPjnbGftWJVvqcY974kz_HFiLURPyQ9u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/hdmovie2.plumbing/wp-content/uploads/2025/09/n8GhftTjP05Zr9l6BBZNzWtIEpA.jpg" group-title="On-Demand",Kantara Chapter 1 (2025)
 https://cdn30092.sidev385wiz.com/stream2/i-cdn-0/7658751d91d49c066f61700a8dbbf660/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25kaCxWWyEVeOp2Z590RVRjT6R2aNR0Yy40RSpWTURWbZpWRw80VKxWTENWP:1761668184:103.157.123.209:f74ddcde9f03bda8479d75b1e5fdb7abd7222bc49c0593cb81d09372b3c732b6/1080/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://hdmovie2.community/wp-content/uploads/2025/09/Mirai-2025-Poster.jpg" group-title="On-Demand",Mirai (2025)
+#EXTINF:-1 tvg-logo="https://hdmovie2.community/wp-content/uploads/2025/09/Mirai-2025-Poster.jpg" group-title="MX-Hindi Movies" tvg-logo="" tvg-type="VOD Movies",Mirai (2025)
 https://cdn30092.ginni386kex.com/stream2/i-cdn-0/7658751d91d49c066f61700a8dbbf660/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2lFVjJTTyolaPR0a4p1VRVjWEpEbNR0aw4ERslmTHFFMNp2Z61keSxmWUlVP:1761745326:103.157.123.209:ef06859b8cc5001910342ff63baf9482cbed7953b1219620204e850ce5cec20b/1080/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://d3s2p39m306u7r.cloudfront.net/atrangii/LG/Atrangii_FullandFinal.png"  group-title="हिंदी मनोरंजन",204 Atrangii
-https://amg13343-amg13343c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13343-amg13343c1-amgplt0173/playlist.m3u8?ads.ip=[IP]&ads.usprivacy=[US_PRIVACY]&ads.devicetype=[DEVICE_TYPE]&ads.targetad=[TARGETAD_ALLOWED]&ads.ua=[UA]&ads.ifa=[IFA]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.country=[COUNTRY]&ads.donotsell=[DNS]&ads.gdprconsent=[GDPR_CONSENT]&ads.lat=[LMT]&coppa=0&ads.appstoreurl=[APP_STOREURL]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.ifatype=[IFA_TYPE]&ads.bundleid=[APP_BUNDLE]&ads.deviceid=[DEVICE_ID]&ads.gdpr=[GDPR]
-#EXTINF:-1 tvg-logo="https://d3s2p39m306u7r.cloudfront.net/tvtn/Lg-images/LT%20400x200.png" group-title="समाचार",205 Lallantop
-https://amg00644-amg00644c4-amgplt0173.playout.now3.amagi.tv/playlist/amg00644-amg00644c4-amgplt0173/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/comedytadka/logo/Comedytadka-400x200.png" group-title="बच्चा पार्टी",206 COMEDYTADKA
-https://vglivessai.akamaized.net/ptnr-lg/title-COMEDY_TADKA-LGIndia/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/79a85c7e-a12a-4739-a575-66b4684f91fa/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.usprivacy=[US_PRIVACY]&fck=[FCK]&viewsize=[VIEWSIZE]&ads.dmake=[DEVICE_MAKE]
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/justforlaughs/logo/Justforlaugh-400x200.png"  group-title="बच्चा पार्टी",245 JUSTFORLAUGH
-https://streams2.sofast.tv/ptnr-lg/title-JUST_FOR_LAUGHS_GAGS_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e6c035de-2f3e-474d-87c1-8bd359911357/manifest.m3u8?ads.deviceid=[DEVICE_ID]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.usprivacy=[US_PRIVACY]
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/docuvision/logo/Docuvision-400x200.png"  group-title="हिंदी फिल्में",250 DOCUVISION
-https://streams2.sofast.tv/ptnr-lg/title-DOCUVISION-ENG_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ab5b0da3-7f65-4f2c-b4e5-3d4947d70065/manifest.m3u8?ads.deviceid=[DEVICE_ID]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.usprivacy=[US_PRIVACY]
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/best-thriller/logo/Best-thriller-400x200.png" group-title="हिंदी फिल्में",290 BEST-THRILLER
-https://streams2.sofast.tv/ptnr-lg/title-BEST_THRILLER_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04a87d60-a79e-4a36-9df8-0ea3a4e2c173/manifest.m3u8?ads.deviceid=[DEVICE_ID]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.usprivacy=[US_PRIVACY]
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/horrortv/logo/Horror-tv-400x200.png"  group-title="हिंदी फिल्में",291 HORROR TV
-https://streams2.sofast.tv/ptnr-lg/title-HORROR-TV-ENG_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/de879fd9-0fae-4530-af26-7abe5283d02a/master.m3u8?ads.deviceid=[DEVICE_ID]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.usprivacy=[US_PRIVACY]
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/nightmare-network/logo/Nightmare-Network-400x200.png"  group-title="हिंदी फिल्में",292 NIGHTMARE NETWORK
-https://vglivessai.akamaized.net/ptnr-lg/title-Nightmare_network/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4344f0d3-3d3b-43a9-83bf-344b9bf154bf/478.m3u8?ads.deviceid=[DEVICE_ID]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.usprivacy=[US_PRIVACY]
-#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/Capemay/Panic TV Logo 400x200.png"  group-title="हिंदी फिल्में",293 Panic TV
-https://amg27164-amg27164c1-amgplt0173.playout.now3.amagi.tv/playlist/amg27164-amg27164c1-amgplt0173/playlist.m3u8?ads.gdprconsent=[GDPR_CONSENT]&ads.usprivacy=[US_PRIVACY]&ads.bundleid=[APP_BUNDLE]&ads.deviceid=[DEVICE_ID]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.lat=[LMT]&ads.targetad=[TARGETAD_ALLOWED]&ads.ua=[UA]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.country=[COUNTRY]&ads.ifatype=[IFA_TYPE]&coppa=0&ads.appstoreurl=[APP_STOREURL]&ads.donotsell=[DNS]&ads.gdpr=[GDPR]&ads.ifa=[IFA]&ads.ip=[IP]&ads.devicetype=[DEVICE_TYPE]
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/bestaction/logo/Bestaction-tv-400x200.png"  group-title="हिंदी फिल्में",294 Best Action TV
-https://streams2.sofast.tv/ptnr-lg/title-BEST_ACTION_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e95e2eab-0390-4ec1-9c90-92cc21fee6a9/manifest.m3u8?ads.deviceid=[DEVICE_ID]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.usprivacy=[US_PRIVACY]&fck=[FCK]&viewsize=[VIEWSIZE]
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/kungfu/logo/Kungfu-action-400x200.png"  group-title="हिंदी फिल्में",295 Kung Fu Action
-https://streams2.sofast.tv/ptnr-lg/title-KUNG-FU-ENG-LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/0fc32d96-e596-4344-aac7-9b3792832887/manifest.m3u8?ads.deviceid=[DEVICE_ID]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.usprivacy=[US_PRIVACY]&fck=[FCK]&viewsize=[VIEWSIZE]
-#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/cartoon-tv/logo/Cartoon classics-tv-400x200.png"  group-title="हिंदी फिल्में",312 CARTOON-TV
-https://streams2.sofast.tv/ptnr-lg/title-CARTOON_TV_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d560fb51-529a-4ccc-94bf-01cfb10a1996/manifest.m3u8?ads.deviceid=[DEVICE_ID]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.usprivacy=[US_PRIVACY]
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/5minutecraft/5min_Craft_resized_400x200.png"  group-title="हिंदी मनोरंजन",315 5-minute Crafts
-https://amg02051-soulpublishing-amg02051c7-lg-in-1018.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsenglish-lgin/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
-#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/123go/123go_logo_resized_400x200.png"  group-title="हिंदी मनोरंजन",316 123 GO!
-https://amg02051-soulpublishing-amg02051c17-lg-in-1190.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123goenglish-lgin/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
-
-#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/bfMpu5p_N6Hrdf13VuNdoNBgbuckMZv8i0qLaWJUAk9CbWd38TSwUppXKdkvQjYcpNyJscVJ=s160-c-k-c0x00ffffff-no-rj" group-title="SmartTV HD",Comedy King
-https://amg01448-samsungindia-amg01448c6-samsung-in-2297.playouts.now.amagi.tv/playlist/amg01448-samsungindia-comedyking-samsungin/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ts40" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="SmartTV HD",&TV ᴴᴰ
-https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ts818" tvg-logo="https://i.imgur.com/UNNcOef.png" group-title="SmartTV HD",Shemaroo TV
-https://cdn-3.pishow.tv/live/230/master.m3u8
-
-#EXTINF:-1 tvg-id="ts503" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="SmartTV HD",Zee Cinema ᴴᴰ
-https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ts7" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="SmartTV HD",B4U Movies
-https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ts730" tvg-logo="https://i.imgur.com/CKLn0ft.png" group-title="SmartTV HD",B4U Kadak
-https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ts7" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="SmartTV HD",B4U Movie
-https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ts730" tvg-logo="https://i.imgur.com/CKLn0ft.png" group-title="SmartTV HD",B4U Kadak
-https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4ukadak-lgin/playlist.m3u8
-
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1846,6 +1621,7 @@ https://media-content.akamaized.net/video/f08892aabac24d17b02c3e653134db987f67fc
 
 #EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/c872d91593b007515107579b76aba73e/en/2x3/312x468/1b6e7117fab56431d9b770925a4a9eba_1280x1920_badged_1734670811843.webp" tvg-type="VOD Movies",Robin Hood 2018
 https://d3sgzbosmwirao.cloudfront.net/video/b15805165036c5da4f3d269f0db9ea71/8/hls/h264_high.m3u8
+
 
 
 
