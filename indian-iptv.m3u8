@@ -211,7 +211,15 @@ http://87.255.35.150:18507
 #https://live.dinesh29.com.np/stream/jiotv/colorscineplex/master.m3u8
 
 ##EXTINF:-1 tvg-id="ts1000" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="हिंदी फिल्में",Colors Cineplex Bollywood
-#http://103.182.170.32:8888/play/a01o
+http://103.182.170.32:8888/play/a01o
+
+#EXTINF:-1 tvg-id="ColorsCineplexBollywood.in@SD" http-referrer="https://playyonogames.in/",Colors Cineplex Bollywood (576p)
+#EXTVLCOPT:http-referrer=https://playyonogames.in/
+https://playyonogames.in/live.php?format=.m3u8&id=1763
+
+#EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in@SD" http-referrer="https://playyonogames.in/",Colors Cineplex Superhits (576p)
+#EXTVLCOPT:http-referrer=https://playyonogames.in/
+https://playyonogames.in/live.php?format=.m3u8&id=1450
 
 #EXTINF:-1 tvg-id="ts175" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="हिंदी फिल्में", Zee Bollywood
 http://87.255.35.150:18861
@@ -1621,6 +1629,7 @@ https://media-content.akamaized.net/video/f08892aabac24d17b02c3e653134db987f67fc
 
 #EXTINF:-1 tvg-id="" group-title="MX-Hindi Movies" tvg-logo="https://qqcdnpictest.mxplay.com/pic/c872d91593b007515107579b76aba73e/en/2x3/312x468/1b6e7117fab56431d9b770925a4a9eba_1280x1920_badged_1734670811843.webp" tvg-type="VOD Movies",Robin Hood 2018
 https://d3sgzbosmwirao.cloudfront.net/video/b15805165036c5da4f3d269f0db9ea71/8/hls/h264_high.m3u8
+
 
 
 
