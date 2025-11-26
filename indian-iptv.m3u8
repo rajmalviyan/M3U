@@ -216,14 +216,6 @@ http://87.255.35.150:18507
 ##EXTINF:-1 tvg-id="ts1000" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="हिंदी फिल्में",Colors Cineplex Bollywood
 http://103.182.170.32:8888/play/a01o
 
-#EXTINF:-1 tvg-id="ColorsCineplexBollywood.in@SD" http-referrer="https://playyonogames.in/",Colors Cineplex Bollywood (576p)
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-https://playyonogames.in/live.php?format=.m3u8&id=1763
-
-#EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in@SD" http-referrer="https://playyonogames.in/",Colors Cineplex Superhits (576p)
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-https://playyonogames.in/live.php?format=.m3u8&id=1450
-
 #EXTINF:-1 tvg-id="ts175" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="हिंदी फिल्में", Zee Bollywood
 http://87.255.35.150:18861
 
@@ -271,6 +263,9 @@ https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa4
 
 #EXTINF:-1 tvg-id="ts1499" group-title="हिंदी फिल्में" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw36_jUEne2nn6bLwxZrJA9Sfi_ch2f6FXqQ&s",Hindi Dubbed Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wxttyz6M/Hindi-Movies.jpg" group-title="हिंदी फिल्में",Hindi Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 
 #EXTINF:-1 tvg-id="ts7" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2023/12/ChatGPT-Image-Apr-14-2025-03_33_06-PM.png" group-title="हिंदी फिल्में",Desi Play TV
 https://desiplaylive.akamaized.net/ptnr-yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-660691/4cf68f50-0c5e-47a6-96e3-b78797a2b6fe/1.m3u8
@@ -413,9 +408,8 @@ https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
 #EXTINF:-1 tvg-id="ts96" tvg-logo="https://i.imgur.com/kcDJ4g0.png" group-title="संगीत",Zoom
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
 
-##EXTINF:-1 tvg-id="ts103" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png" group-title="संगीत",MTV
-##https://jio.drmlive.net/jio/bpk-tv/MTV_MOB/Fallback/index.m3u8
-#https://live.dinesh29.com.np/stream/jiotv/mtvhd/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k1nb8u1.jpeg" group-title="संगीत",Deewana HD
+https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
 
 #EXTINF:-1 tvg-id="ts406" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="संगीत",MTV ᴴᴰ
 http://87.255.35.150:18901
@@ -934,6 +928,15 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RGeLxjv.png" group-title="खेल",Star Sports 1 Hindi HD (1080p)
 http://116.90.120.149:8000/play/a0bv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4ZGxQHW/Motu-Patlu.jpg" group-title="बच्चा पार्टी",Motu Patlu
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8ShbZjg/Shinchan.jpg" group-title="बच्चा पार्टी",Shinchan
+https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTSHb371/Doraemon.jpg" group-title="बच्चा पार्टी",Doreamon
+https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 
 #EXTINF:-1 tvg-id="1375" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_International_HD.png" group-title="बच्चा पार्टी", Disney International ᴴᴰ
 https://live.dinesh29.com.np/stream/jiotvplus/disneyinternationalhd/master.m3u8
@@ -1678,9 +1681,29 @@ https://cdn-4.pishow.tv/live/1039/master.m3u8
 #EXTINF:-1 tvg-id="SangeetBangla.in@SD" group-title="বাংলা",Sangeet Bangla (720p)
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="বাংলা",Zee Bangla
+https://bongoflixbd.top/stream.php?id=890a1a92-0602-4c2d-93ca-a2c43e7aec54
+
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="বাংলা",Colors Bangla
+https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/klikk/Lglogos/Logoklikk.png" group-title="বাংলা",Cine Jomjomat
 https://amg13779-amg13779c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13779-amg13779c1-amgplt0173/playlist.m3u8?ads.country=[COUNTRY]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.donotsell=[DNS]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.usprivacy=[US_PRIVACY]&coppa=0&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.ua=[UA]&ads.appname=[APP_NAME]&ads.gdpr=[GDPR]&ads.lat=[LMT]&ads.appversion=[APP_VERSION]&ads.deviceid=[DEVICE_ID]&ads.devicetype=[DEVICE_TYPE]&ads.gdprconsent=[GDPR_CONSENT]&ads.ip=[IP]&ads.targetad=[TARGETAD_ALLOWED]
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k1nb8u1.jpeg" group-title="বাংলা",ZB Music (720p)
 https://server.zillarbarta.com/zbmusic/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k1nb8u1.jpeg" group-title="বাংলা",Kids Story Bangla
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k1nb8u1.jpeg" group-title="বাংলা",Kids Story Bangla 2
+https://cloudfrontnet.vercel.app/tplay/playout/209869/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k1nb8u1.jpeg" group-title="বাংলা",Bengali Beats
+https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RZ146s6N/Bangla-Kirton.jpg" group-title="বাংলা",Non-Stop Bengali Kirtan
+https://cloudfrontnet.vercel.app/tplay/playout/209618/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dz2FqrL5/Bangla-Movies.jpg" group-title="বাংলা",Bangla Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
