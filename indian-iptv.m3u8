@@ -182,6 +182,9 @@ http://87.255.35.150:18465
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/878/103/png-transparent-zee-cinema-television-channel-zee-tv-zee-entertainment-enterprises-cinema-logo-television-text-bollywood-thumbnail.png"group-title="हिंदी फिल्में",Zee Cinema
 https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/878/103/png-transparent-zee-cinema-television-channel-zee-tv-zee-entertainment-enterprises-cinema-logo-television-text-bollywood-thumbnail.png"group-title="हिंदी फिल्में",Zee Cinema ᴴᴰ
+https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/cb553d1e786c648b9dd43e64d3ef42a0d2243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27751cc9e0a957f378bbdbe306f2c180680585ee2be5da5edf50e40dd64a9b61a4c882714e4875fc8d54abb9d860acd179b7ef745999ba4de85168bd09201ea6d8d5c9f870f07fba957d1ac74b8de93684bf31b4a672d252d270e9c3458a7544a5d8295a302e8d361aab9308f6575ce685ab9a942e8468273cccc4fa8aca9de51492db6c511094dc6b1f1dbab6663ef2493c3987603db432ee92a67b06b4fa62af99ecfeb5ee8e2069fb76caebb651639d4907f56fcd88cc2bf97439029cb88a1d66d0206540d0c8252b5892df51d9d29f880437a1c7a4da3cc019fc6c108642b0fa7904ed8162cbcd9a08acb416e99375509be2091702d58e118203ce924f29f7c4b8c25018a7c7dd850278f4ff9f77da6fe95b5486bfb8e8771fe69eea7039da351fe236f0f70c69846684c4279dff9754d6129b122cae78ab027475096b4a798e75c37003512287ca8eaf57f968b80645d21c85d226f630355f120d37ad414461024ab47814c68eb2c8c844b70bed122f397a3366db1917d694f8a93/92/1920x1080_4945600/index.m3u8
+
 #EXTINF:-1 tvg-id="ts7" tvg-logo="https://www.zeebollymovies.zeeafrica.tv/images/ZBM/Icons/zbm-logo-200pxh.png" group-title="हिंदी फिल्में",Zee Bollymovies
 https://amg17931-zee-amg17931c8-samsung-ph-6525.playouts.now.amagi.tv/playlist.m3u8
 
@@ -1637,19 +1640,49 @@ https://media-content.akamaized.net/video/f08892aabac24d17b02c3e653134db987f67fc
 https://d3sgzbosmwirao.cloudfront.net/video/b15805165036c5da4f3d269f0db9ea71/8/hls/h264_high.m3u8
 
 
+#EXTINF:-1 tvg-id="tv9-bangla" tvg-logo="https://a.jsrdn.com/hls/23129/tv9-bangla/poster_20250219_203746.jpg" group-title="বাংলা",TV9 Bangla
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-bangla/main.m3u8
 
+#EXTINF:-1 tvg-id="TV9Bangla.in"group-title="বাংলা",TV9 Bangla (720p)
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/TV9/Bangla_400x200-px-updated.jpg" group-title="বাংলা",TV9 Bangla
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01106-associatedbroad-tv9bangla-lgin/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
+#EXTINF:-1 tvg-logo="https://dvvlqr1rtlak3.cloudfront.net/ABP/ANANDA/AnandaLOGO200x400.png" group-title="বাংলা",ABP Ananda
+https://amg01043-abpnewsnetwork-amg01043c2-lg-in-2042.playouts.now.amagi.tv/playlist/amg01043-abpnewsnetwork-abpananda-lgin/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
 
+#EXTINF:-1 tvg-id="abp-ananda" tvg-logo="https://a.jsrdn.com/hls/23011/abp-ananda/poster_20250207_184838.jpg" group-title="বাংলা",ABP Ananda
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-ananda/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/Images/News18_Bangla.png" group-title="বাংলা",152 News18 Bangla
+https://amg00866-amg00866c8-lg-in-3524.playouts.now.amagi.tv/playlist/amg00866-tv18broadcastlimitedfast-news18bangla-lgin/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
 
+#EXTINF:-1 tvg-logo="https://daeol6gzwg16.cloudfront.net/lg/republic-bangla/logo/republic-bangla-400x200.png" group-title="বাংলা",153 REPUBLIC BANGLA
+https://vg-republictvlive.akamaized.net/ptnr-lgtv/title-Republic_Bangla_Non_SSAI_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/91b8741b-e610-4e2e-92c3-c848f1ae7d8a/main.m3u8?ads.deviceid=[DEVICE_ID]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.usprivacy=[US_PRIVACY]
 
+#EXTINF:-1 tvg-id="DDBangla.in" group-title="বাংলা",DD Bangla
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
 
+#EXTINF:-1 tvg-id="Enter10Bangla.in@SD" group-title="বাংলা",Enter10 Bangla (720p) [Not 24/7]
+https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
+#EXTINF:-1 tvg-id="KhushbooBangla.in@SD" group-title="বাংলা",Khushboo Bangla (720p)
+https://cdn-4.pishow.tv/live/1473/master.m3u8
 
+#EXTINF:-1 tvg-id="OrangeBanglaTV.in@SD" group-title="বাংলা",Orange Bangla TV (720p)
+https://cdn-4.pishow.tv/live/1499/master.m3u8
 
+#EXTINF:-1 tvg-id="RepublicBangla.in@SD" group-title="বাংলা",Republic Bangla (1080p)
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8
 
+#EXTINF:-1 tvg-id="RupasiBangla.in@SD" group-title="বাংলা",Rupasi Bangla (720p)
+https://cdn-4.pishow.tv/live/1039/master.m3u8
 
+#EXTINF:-1 tvg-id="SangeetBangla.in@SD" group-title="বাংলা",Sangeet Bangla (720p)
+https://cdn-4.pishow.tv/live/1143/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/klikk/Lglogos/Logoklikk.png" group-title="বাংলা",Cine Jomjomat
+https://amg13779-amg13779c1-amgplt0173.playout.now3.amagi.tv/playlist/amg13779-amg13779c1-amgplt0173/playlist.m3u8?ads.country=[COUNTRY]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.donotsell=[DNS]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.usprivacy=[US_PRIVACY]&coppa=0&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.ua=[UA]&ads.appname=[APP_NAME]&ads.gdpr=[GDPR]&ads.lat=[LMT]&ads.appversion=[APP_VERSION]&ads.deviceid=[DEVICE_ID]&ads.devicetype=[DEVICE_TYPE]&ads.gdprconsent=[GDPR_CONSENT]&ads.ip=[IP]&ads.targetad=[TARGETAD_ALLOWED]
 
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k1nb8u1.jpeg" group-title="বাংলা",ZB Music (720p)
+https://server.zillarbarta.com/zbmusic/index.m3u8
