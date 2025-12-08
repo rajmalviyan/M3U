@@ -170,8 +170,7 @@ https://amg01448-samsungindia-amg01448c6-samsung-in-2297.playouts.now.amagi.tv/p
 http://87.255.35.150:18510
 
 #EXTINF:-1 tvg-id="ts267" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="हिंदी फिल्में", & Pictures ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/zee-tvpictureshd.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/andpictureshd1.m3u8
 
 #EXTINF:-1 tvg-id="476" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="हिंदी फिल्में",Sony Max ᴴᴰ
 http://87.255.35.150:18851
@@ -1707,4 +1706,5 @@ https://cloudfrontnet.vercel.app/tplay/playout/209618/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dz2FqrL5/Bangla-Movies.jpg" group-title="বাংলা",Bangla Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
+
 
