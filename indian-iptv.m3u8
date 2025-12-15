@@ -170,7 +170,10 @@ https://amg01448-samsungindia-amg01448c6-samsung-in-2297.playouts.now.amagi.tv/p
 http://87.255.35.150:18510
 
 #EXTINF:-1 tvg-id="ts267" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="हिंदी फिल्में", & Pictures ᴴᴰ
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/andpictureshd1.m3u8
+http://66.102.120.18:8000/play/a01t/index.m3u8
+
+#EXTINF:-1 tvg-id="ts267" tvg-logo="https://i.imgur.com/9mK6dgM.png" group-title="हिंदी फिल्में",&xplor HD (1080p)
+http://66.102.120.18:8000/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-id="476" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="हिंदी फिल्में",Sony Max ᴴᴰ
 http://87.255.35.150:18851
@@ -207,13 +210,6 @@ http://87.255.35.150:18841
 
 #EXTINF:-1 tvg-id="ts100" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png?20230801125521" group-title="हिंदी फिल्में", Zee Action
 http://87.255.35.150:18507
-
-
-##EXTINF:-1 tvg-id="ts53" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="हिंदी फिल्में",Colors Cineplex
-#https://live.dinesh29.com.np/stream/jiotv/colorscineplex/master.m3u8
-
-##EXTINF:-1 tvg-id="ts1000" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="हिंदी फिल्में",Colors Cineplex Bollywood
-http://103.182.170.32:8888/play/a01o
 
 #EXTINF:-1 tvg-id="ts175" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="हिंदी फिल्में", Zee Bollywood
 http://87.255.35.150:18861
@@ -1714,6 +1710,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209618/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dz2FqrL5/Bangla-Movies.jpg" group-title="বাংলা",Bangla Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
+
 
 
 
