@@ -287,6 +287,14 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991756/hls/master.m3u8?includeAsset
 #EXTINF:-1 tvg-id="ts7" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-30-2025-10_05_06-AM.png" group-title="हिंदी फिल्में",NH Bollyflix
 https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000140Q_20250521T010047SQUARE.png&h=250
+" group-title="Movies",NH BOLLYFLIX
+https://jmp2.uk/stvp-IN46000140Q
+
+#EXTINF:-1 tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20241211T020400SQUARE.png&h=250
+" group-title="Movies",THE MOVIE CLUB
+https://jmp2.uk/stvp-IN38000072R
+
 #EXTINF:-1 tvg-id="ts7" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-30-2025-11_10_53-AM.png" group-title="हिंदी फिल्में",NH Bollygold
 https://nh-runntv-blygld.cdn.runn.tv/nhstdz/stream/blygld/playlist.m3u8
 
@@ -1706,5 +1714,6 @@ https://cloudfrontnet.vercel.app/tplay/playout/209618/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Dz2FqrL5/Bangla-Movies.jpg" group-title="বাংলা",Bangla Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
+
 
 
