@@ -56,7 +56,7 @@ http://87.255.35.150:18221
 http://87.255.35.150:18803
 
 #EXTINF:-1 tvg-id="ts52" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="हिंदी मनोरंजन", Colors ᴴᴰ
-http://87.255.35.150:18890
+http://103.99.249.139/colors/index.m3u8
 
 #EXTINF:-1 tvg-id="ts438" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey.png" group-title="हिंदी मनोरंजन", Colors Rishtey
 http://87.255.35.150:18886
@@ -179,13 +179,17 @@ http://66.102.120.18:8000/play/a01t/index.m3u8
 http://66.102.120.18:8000/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-id="476" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="हिंदी फिल्में",Sony Max ᴴᴰ
-http://87.255.35.150:18851
+http://103.99.249.139/sonymax/index.m3u8
 
 #EXTINF:-1 tvg-id="289" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="हिंदी फिल्में", Sony Max
 http://87.255.35.150:18465
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/878/103/png-transparent-zee-cinema-television-channel-zee-tv-zee-entertainment-enterprises-cinema-logo-television-text-bollywood-thumbnail.png"group-title="हिंदी फिल्में",Zee Cinema
-https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
+http://103.99.249.139/zeecinema/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png" group-title="हिंदी फिल्में",Zee Cine Classic
+https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/878/103/png-transparent-zee-cinema-television-channel-zee-tv-zee-entertainment-enterprises-cinema-logo-television-text-bollywood-thumbnail.png"group-title="हिंदी फिल्में",Zee Cinema ᴴᴰ
 https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/cb553d1e786c648b9dd43e64d3ef42a0d2243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27751cc9e0a957f378bbdbe306f2c180680585ee2be5da5edf50e40dd64a9b61a4c882714e4875fc8d54abb9d860acd179b7ef745999ba4de85168bd09201ea6d8d5c9f870f07fba957d1ac74b8de93684bf31b4a672d252d270e9c3458a7544a5d8295a302e8d361aab9308f6575ce685ab9a942e8468273cccc4fa8aca9de51492db6c511094dc6b1f1dbab6663ef2493c3987603db432ee92a67b06b4fa62af99ecfeb5ee8e2069fb76caebb651639d4907f56fcd88cc2bf97439029cb88a1d66d0206540d0c8252b5892df51d9d29f880437a1c7a4da3cc019fc6c108642b0fa7904ed8162cbcd9a08acb416e99375509be2091702d58e118203ce924f29f7c4b8c25018a7c7dd850278f4ff9f77da6fe95b5486bfb8e8771fe69eea7039da351fe236f0f70c69846684c4279dff9754d6129b122cae78ab027475096b4a798e75c37003512287ca8eaf57f968b80645d21c85d226f630355f120d37ad414461024ab47814c68eb2c8c844b70bed122f397a3366db1917d694f8a93/92/1920x1080_4945600/index.m3u8
@@ -194,7 +198,7 @@ https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/ts-eu-w1-n
 http://87.255.35.150:18411
 
 #EXTINF:-1 tvg-id="ts632" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="हिंदी फिल्में",Star Gold ᴴᴰ
-http://87.255.35.150:18859
+http://103.99.249.139/stargold/index.m3u8
 
 #EXTINF:-1 tvg-id="ts163" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2.png" group-title="हिंदी फिल्में",Star Gold 2
 http://87.255.35.150:18807
@@ -215,7 +219,7 @@ http://87.255.35.150:18841
 http://87.255.35.150:18507
 
 #EXTINF:-1 tvg-id="ts175" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="हिंदी फिल्में", Zee Bollywood
-http://87.255.35.150:18861
+http://103.229.254.25:7001/play/a09w/index.m3u8
 
 #EXTINF:-1 tvg-id="ts7" tvg-logo="https://media.istockphoto.com/id/1253945862/vector/sale2.jpg?s=612x612&w=0&k=20&c=VTvCdHZZXQJjtMKvAMU0x7bdoQAhnIYkvFft4Af2aUM=" group-title="हिंदी फिल्में", Bollywood Cinema
 https://live20.bozztv.com/giatvplayout7/giatv-209593/index.m3u8
@@ -327,11 +331,12 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2023/08/ChatGPT-Image-Sep-4-2025-08_21_25-AM-1.jpg" group-title="हिंदी फिल्में",Shemaroo Josh
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/Zee_Dil_Se.png" "हिंदी फिल्में",201 Zee Dil Se
 https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0
 
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png" group-title="हिंदी फिल्में",202 Zee Comedy Nation
-https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0
+https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zhornights.png" group-title="हिंदी फिल्में",203 Zee Horror Nights
 https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&coppa=0
@@ -883,7 +888,7 @@ http://87.255.35.150:18891
 http://87.255.35.150:18823
 
 #EXTINF:-1 tvg-id="ts235" tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/1168/661168-h" group-title="खेल",Star Sports 2 ᴴᴰ
-http://87.255.35.150:18828
+http://103.99.249.139/starsport2/index.m3u8
 
 #EXTINF:-1 tvg-id="1985" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_SD.png" group-title="खेल",Star Sports 3
 http://87.255.35.150:18828
