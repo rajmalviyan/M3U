@@ -208,10 +208,10 @@ http://103.229.254.25:7001/play/a0df/index.m3u8
 #EXTINF:-1 tvg-id="ts595" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="हिंदी फिल्में",Star Gold Select ᴴᴰ
 http://103.229.254.25:7001/play/a032/index.m3u8
 
-#EXTINF:-1 tvg-id="StarGoldRomance.in@SD" tvg-logo="https://i.imgur.com/gSWv9U3.png" group-title="Movies",Star Gold Romance (576p)
+#EXTINF:-1 tvg-id="StarGoldRomance.in@SD" tvg-logo="https://i.imgur.com/gSWv9U3.png" group-title="हिंदी फिल्में",Star Gold Romance (576p)
 http://103.253.18.58:8000/play/a017
 
-#EXTINF:-1 tvg-id="StarGoldThrills.in@SD" tvg-logo="https://i.imgur.com/azqtpYh.png" group-title="Movies",Star Gold Thrills (576p)
+#EXTINF:-1 tvg-id="StarGoldThrills.in@SD" tvg-logo="https://i.imgur.com/azqtpYh.png" group-title="हिंदी फिल्में",Star Gold Thrills (576p)
 http://103.253.18.58:8000/play/a00o
 
 #EXTINF:-1 tvg-id="ts61" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="हिंदी फिल्में",Colors Cineplex ᴴᴰ
