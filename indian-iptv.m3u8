@@ -18,7 +18,7 @@ https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 https://cdn-4.pishow.tv/live/233/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/THJEAqJ.png",MoviePlex
-http://202.164.50.194:8000/play/a03n/index.m3u8
+https://mumt04.tangotv.in/MOVIEPLEX/index.m3u8
 
 #EXTINF:-1 tvg-id="mahua-play" tvg-logo="https://a.jsrdn.com/hls/23215/mahua-play/poster_20250429_233658.jpg" group-title="भोजपुरी",Mahua Play
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mahua-play/index.m3u8
@@ -55,7 +55,7 @@ http://103.229.254.25:7001/play/a034/index.m3u8
 http://103.229.254.25:7001/play/a077/index.m3u8
 
 #EXTINF:-1 tvg-id="ts52" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="हिंदी मनोरंजन", Colors ᴴᴰ
-http://103.99.249.139/colors/index.m3u8
+http://103.229.254.25:7001/play/a0a1/index.m3u8
 
 #EXTINF:-1 tvg-id="ts438" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey.png" group-title="हिंदी मनोरंजन", Colors Rishtey
 http://87.255.35.150:18886
@@ -67,7 +67,7 @@ http://87.255.35.150:18546
 http://87.255.35.150:18809
 
 #EXTINF:-1 tvg-id="471" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="हिंदी मनोरंजन",Sony SAB ᴴᴰ
-http://87.255.35.150:18810
+http://103.229.254.25:7001/play/a0db/index.m3u8
 
 #EXTINF:-1 tvg-id="ts554" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="हिंदी मनोरंजन",Sony Pal
 http://87.255.35.150:18887
@@ -79,6 +79,9 @@ http://87.255.35.150:18849
 http://103.229.254.25:7001/play/a0cs/index.m3u8
 
 #EXTINF:-1 tvg-id="ts550" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="हिंदी मनोरंजन", Star Plus
+http://103.229.254.25:7001/play/a09p/index.m3u8
+
+#EXTINF:-1 tvg-id="ts550" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="हिंदी मनोरंजन", Star Plus ᴴᴰ
 http://103.229.254.25:7001/play/a09z/index.m3u8
 
 #EXTINF:-1 tvg-id="ts86" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Bharat.png" group-title="हिंदी मनोरंजन", Star Bharat
@@ -197,13 +200,13 @@ https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/ts-eu-w1-n
 http://87.255.35.150:18411
 
 #EXTINF:-1 tvg-id="ts632" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="हिंदी फिल्में",Star Gold ᴴᴰ
-http://103.99.249.139/stargold/index.m3u8
+http://103.229.254.25:7001/play/a0dd/index.m3u8
 
 #EXTINF:-1 tvg-id="ts163" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2.png" group-title="हिंदी फिल्में",Star Gold 2
 http://103.229.254.25:7001/play/a0df/index.m3u8
 
 #EXTINF:-1 tvg-id="ts595" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="हिंदी फिल्में",Star Gold Select ᴴᴰ
-http://87.255.35.150:18429
+http://103.229.254.25:7001/play/a032/index.m3u8
 
 #EXTINF:-1 tvg-id="ts61" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="हिंदी फिल्में",Colors Cineplex ᴴᴰ
 http://87.255.35.150:18296
@@ -219,6 +222,9 @@ http://87.255.35.150:18507
 
 #EXTINF:-1 tvg-id="ts175" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="हिंदी फिल्में", Zee Classic
 http://103.229.254.25:7001/play/a09w/index.m3u8
+
+#EXTINF:-1 tvg-id="ts175" tvg-logo="https://media0101.elcinema.com/tvguide/1259_1.png" group-title="हिंदी फिल्में", MBC Bollywood (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 
 #EXTINF:-1 tvg-id="ts7" tvg-logo="https://media.istockphoto.com/id/1253945862/vector/sale2.jpg?s=612x612&w=0&k=20&c=VTvCdHZZXQJjtMKvAMU0x7bdoQAhnIYkvFft4Af2aUM=" group-title="हिंदी फिल्में", Bollywood Cinema
 https://live20.bozztv.com/giatvplayout7/giatv-209593/index.m3u8
@@ -248,7 +254,7 @@ https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist
 https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4ukadak-lgin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts7" tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-hd/logo_20231219_184845_51.png" group-title="हिंदी फिल्में",Bollywood ᴴᴰ
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 
 #EXTINF:-1 group-title="हिंदी फिल्में" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bollywood%20HD.png",BOLLYWOOD HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
@@ -265,8 +271,17 @@ https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa4
 #EXTINF:-1 tvg-id="ts1499" group-title="हिंदी फिल्में" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw36_jUEne2nn6bLwxZrJA9Sfi_ch2f6FXqQ&s",Hindi Dubbed Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 
+#EXTINF:-1 tvg-id="ts1499" group-title="हिंदी फिल्में" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN40000100Y_20260204T004058SQUARE.png",The Movie Club (1080p)
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
+
+#EXTINF:-1 tvg-id="ts1499" group-title="हिंदी फिल्में" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN40000100Y_20260204T004058SQUARE.png",The Movie Club +2 (1080p)
+https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
+
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4800001IR_20241024T054050SQUARE.png" group-title="हिंदी फिल्में",SOUTH STATION
 https://jmp2.uk/stvp-IN3800008CX
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4800001IR_20241024T054050SQUARE.png" group-title="हिंदी फिल्में",ALL Time Movies
+https://mumt03.tangotv.in/ALLTIMEMOVIES/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20241211T020400SQUARE.png&h=250
 " group-title="हिंदी फिल्में",THE MOVIE CLUB
@@ -701,7 +716,7 @@ https://amg00644-amg00644c4-amgplt0173.playout.now3.amagi.tv/playlist/amg00644-a
 https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="ts530" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png" group-title="English Movies", & Prive ᴴᴰ
-http://87.255.35.150:18494
+http://103.229.254.25:7001/play/a03f/index.m3u8
 
 #EXTINF:-1 tvg-id="ts32" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="English Movies",Sony PIX ᴴᴰ
 http://87.255.35.150:18495
@@ -728,7 +743,7 @@ https://f15f7fbdcd084ff3abb9dc148b69d8b4.mediatailor.ap-south-1.amazonaws.com/v1
 https://d75f61259af04d9ea002d5429c934854.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/RUNACT/index.m3u8
 
 #EXTINF:-1 tvg-id="ts544" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" group-title="English Movies",Colors Infinity
-http://87.255.35.150:18838
+http://103.229.254.25:7001/play/a0du/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Zee_Caf%C3%A9_2025.svg/330px-Zee_Caf%C3%A9_2025.svg.png" group-title="English Movies",Zee Cafe
 http://87.255.35.150:18547
@@ -990,7 +1005,7 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://tiger-hub.vercel.app/24×7_Tom&Jerry/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ts45" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="बच्चा पार्टी",Sony Yay
-http://87.255.35.150:18285
+http://103.229.254.25:7001/play/a0cl/index.m3u8
 
 #EXTINF:-1 tvg-id="1920" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/The_Q_Kahaniyan.png" group-title="बच्चा पार्टी",The Q Kahaniyan
 https://vg-theqlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-640586/main.m3u8
