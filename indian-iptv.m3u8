@@ -45,15 +45,14 @@ https://live.dinesh29.com.np/stream/jiotv/bhojpurijunction/master.m3u8
 #EXTINF:-1 tvg-id="bhojpuri-music-india" tvg-logo="https://i.imgur.com/5ORC4tn.png" group-title="भोजपुरी",Bhojpuri Music India
 https://www.youtube.com/watch?v=9cULEEvZAkQ
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/And_TV_logo.png"group-title="हिंदी मनोरंजन",& TV ᴴᴰ
-https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/And_TV_logo.png"group-title="हिंदी मनोरंजन",& TV
+http://103.229.254.25:7001/play/a09v/index.m3u8
 
 #EXTINF:-1 tvg-id="ts40" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="हिंदी मनोरंजन",& TV ᴴᴰ
-http://87.255.35.150:18221
+http://103.229.254.25:7001/play/a034/index.m3u8
 
 #EXTINF:-1 tvg-id="ts543" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_SD.png" group-title="हिंदी मनोरंजन", Colors
-http://87.255.35.150:18803
+http://103.229.254.25:7001/play/a077/index.m3u8
 
 #EXTINF:-1 tvg-id="ts52" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="हिंदी मनोरंजन", Colors ᴴᴰ
 http://103.99.249.139/colors/index.m3u8
@@ -76,11 +75,11 @@ http://87.255.35.150:18887
 #EXTINF:-1 tvg-id="ts557" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png" group-title="हिंदी मनोरंजन", Zee TV
 http://87.255.35.150:18849
 
-#EXTINF:-1 tvg-id="ZeeTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png" group-title="हिंदी मनोरंजन",Zee TV (1080p)
-http://87.255.35.150:18951
+#EXTINF:-1 tvg-id="ZeeTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png" group-title="हिंदी मनोरंजन",Zee TV HD(1080p)
+http://103.229.254.25:7001/play/a0cs/index.m3u8
 
 #EXTINF:-1 tvg-id="ts550" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="हिंदी मनोरंजन", Star Plus
-http://87.255.35.150:18850
+http://103.229.254.25:7001/play/a09z/index.m3u8
 
 #EXTINF:-1 tvg-id="ts86" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Bharat.png" group-title="हिंदी मनोरंजन", Star Bharat
 http://87.255.35.150:18853
@@ -173,7 +172,7 @@ https://amg01448-samsungindia-amg01448c6-samsung-in-2297.playouts.now.amagi.tv/p
 http://87.255.35.150:18510
 
 #EXTINF:-1 tvg-id="ts267" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="हिंदी फिल्में", & Pictures ᴴᴰ
-http://66.102.120.18:8000/play/a01t/index.m3u8
+http://103.229.254.25:7001/play/a033/index.m3u8
 
 #EXTINF:-1 tvg-id="ts267" tvg-logo="https://i.imgur.com/9mK6dgM.png" group-title="हिंदी फिल्में",&xplor HD (1080p)
 http://66.102.120.18:8000/play/a012/index.m3u8
@@ -201,7 +200,7 @@ http://87.255.35.150:18411
 http://103.99.249.139/stargold/index.m3u8
 
 #EXTINF:-1 tvg-id="ts163" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2.png" group-title="हिंदी फिल्में",Star Gold 2
-http://87.255.35.150:18807
+http://103.229.254.25:7001/play/a0df/index.m3u8
 
 #EXTINF:-1 tvg-id="ts595" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="हिंदी फिल्में",Star Gold Select ᴴᴰ
 http://87.255.35.150:18429
@@ -218,7 +217,7 @@ http://87.255.35.150:18841
 #EXTINF:-1 tvg-id="ts100" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png?20230801125521" group-title="हिंदी फिल्में", Zee Action
 http://87.255.35.150:18507
 
-#EXTINF:-1 tvg-id="ts175" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="हिंदी फिल्में", Zee Bollywood
+#EXTINF:-1 tvg-id="ts175" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="हिंदी फिल्में", Zee Classic
 http://103.229.254.25:7001/play/a09w/index.m3u8
 
 #EXTINF:-1 tvg-id="ts7" tvg-logo="https://media.istockphoto.com/id/1253945862/vector/sale2.jpg?s=612x612&w=0&k=20&c=VTvCdHZZXQJjtMKvAMU0x7bdoQAhnIYkvFft4Af2aUM=" group-title="हिंदी फिल्में", Bollywood Cinema
@@ -265,9 +264,6 @@ https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa4
 
 #EXTINF:-1 tvg-id="ts1499" group-title="हिंदी फिल्में" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw36_jUEne2nn6bLwxZrJA9Sfi_ch2f6FXqQ&s",Hindi Dubbed Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
-
-#EXTINF:-1 tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.postimg.cc/wxttyz6M/Hindi-Movies.jpg"  group-title="हिंदी फिल्में",Hindi Movies
-https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4800001IR_20241024T054050SQUARE.png" group-title="हिंदी फिल्में",SOUTH STATION
 https://jmp2.uk/stvp-IN3800008CX
@@ -866,8 +862,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/tlchindi/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/foodfood/master.m3u8
 
 #EXTINF:-1 tvg-id="ts382" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Zest_HD.png" group-title="जीवन शैली",Zee Zest ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/zee-348.m3u8
+http://103.229.254.25:7001/play/a0dp/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/66674f5e1df7751fcf01ae62/66bcf02e2df833b1662d7069_INFAST.png" group-title="जीवन शैली",IN FAST
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestyle-xiaomi/playlist.m3u8
@@ -1280,7 +1275,7 @@ http://87.255.35.150:18423
 https://icy-boat-356c.10011-8fd.workers.dev/rainflare53.pro/file2/9l4wbLMv0qipI41G~NSw1JU0WiNajj627pOTJ0GCpKI7Pifoq8tP4T1psnopY~D9xB52jfJ4oxdQtf8cxry~UONbXtK0RF30fXk9XTnVAR1SX3k4zqS3w+i4WJNWbjD9Jd+cPa04r9KmXOv+BKzXrfGVJ8UxSOgjulPoa0oQvLw=/MTA4MA==/aW5kZXgubTN1OA==.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/yRYgvo2crAeHzqKwXMVtEaDx7Qq.jpg" group-title="MX-Hindi Movies" tvg-logo="" tvg-type="VOD Movies",Dhurandhar (2025)
-https://hdm2.ink/playlist/eGhlMmorODVPR09nSERxTVJ4NnV5cFpCVk50UDl3djhFRFVuY2Erci9QUkFRQ0NyYXZmYWIxRmZJSUkxYzhnbHhoV0FvcW5kNjltZ1MvTTZ6Ky8zWUE9PQ?tok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJoZG0yLmluayIsImlhdCI6MTc3NDQ0NjA2MCwiZXhwIjoxNzc0NDU2ODYwLCJzbHVnIjoiSzVYMlAiLCJ0eXBlIjoicXVhbGl0eV90b2tlbiJ9.WwzPLQhf5r6YkVK3htgeL_RpAX0hAZyUjxpb7EnjMhw
+https://streamimdb.ru/embed/movie/tt33014583
 
 #EXTINF:-1 tvg-logo="" group-title="MX-Hindi Movies" tvg-logo="" tvg-type="VOD Movies",Dhurandhar 2 (2026)
 https://hdm2.ink/playlist/eGhlMmorODVPR09nSERxTVJ4NnV5bmt1NE55QlVVNlZvWjdSZEFLRDdwMW5uMVFYeEVJbUFteVZjQkVFM1VKMmFMUWF0MUhGVWd2cUxKSzBUK2VHVlE9PQ?tok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJoZG0yLmluayIsImlhdCI6MTc3NDQ0NTc4NywiZXhwIjoxNzc0NDU2NTg3LCJzbHVnIjoiODZVN1giLCJ0eXBlIjoicXVhbGl0eV90b2tlbiJ9.hI4j8t5QItpyY7MT7k4AxiEd2yKmHTM-cidaIC0Iz_k
@@ -1288,19 +1283,17 @@ https://hdm2.ink/playlist/eGhlMmorODVPR09nSERxTVJ4NnV5bmt1NE55QlVVNlZvWjdSZEFLRD
 #EXTINF:-1 tvg-logo="	https://allmovieland.ac/uploads/posts/2025-09/900838_poster_1757229989.jpg" group-title="MX-Hindi Movies" tvg-logo="" tvg-type="VOD Movies",The Bengal Files
 https://cdn30092.samui390dod.com/stream2/i-cdn-0/50784d544705bf7a1b845b6e5904d440/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2lVbGpWWXZFaPdVS55keWtmWUVUea1mUqllMKpWW6tWMORkQs1EVotmTUFVP:1764154031:103.157.123.208:7a6b61fd4a3bc93bc17a87bef9dd3c71829782b0f589ed961469328f72b70578/720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://allmovieland.ac/uploads/posts/2025-04/980477_poster_1745934011.jpg" group-title="MX-Hindi Movies" tvg-logo="" tvg-type="VOD Movies",Ne Zha 2(2025)
-https://i-cdn-0.sidev385wiz.com/stream2/i-cdn-0/7658751d91d49c066f61700a8dbbf660/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25EVZpXTU50aNRUR180RVlnWEFFePRVW31kMaxWTElleadUW350RalmWq1UP:1761595682:103.157.123.209:e7613d43f513a38846907883f58fe5d329d7bc0a8318ed26930178650606bbf4/1080/index.m3u8
+#EXTINF:-1 tvg-logo="https://allmovieland.ac/uploads/posts/2025-04/980477_poster_1745934011.jpg" group-title="MX-Hindi Movies" tvg-logo="" tvg-type="VOD Movies",Ne Zha (2019)
+https://streamimdb.ru/embed/movie/tt33014583
 
-#EXTINF:-1 tvg-logo="https://allmovieland.ac/uploads/posts/2025-09/1525484_poster_1757908590.jpg" group-title="MX-Hindi Movies" tvg-logo="" tvg-type="VOD Movies",Ek Chatur Naar (2025)
-https://i-cdn-0.ginni386kex.com/stream2/i-cdn-0/7658751d91d49c066f61700a8dbbf660/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT25ERVpnTqlEMOREbp5kMZRjWUFVePdUW00kejNTWy0keOpWQ0o1VNhXTtVVP:1761753662:103.157.123.209:c016f61b7fb7da16142d95eef27ea2dbb242ccec1ba14e8437c9b8266317a3c9/1080/index.m3u8
+#EXTINF:-1 tvg-logo="https://allmovieland.ac/uploads/posts/2025-04/980477_poster_1745934011.jpg" group-title="MX-Hindi Movies" tvg-logo="" tvg-type="VOD Movies",Ne Zha 2 (2025)
+https://streamimdb.ru/movie/8b2gd-ne-zha-2
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/eezI7a6PBPInXZVlFxBVaIc0iMc.jpg" group-title="MX-Hindi Movies" tvg-logo="" tvg-type="VOD Movies",Baaghi 4 (2025)
-https://hdm2.ink/playlist/eGhlMmorODVPR09nSERxTVJ4NnV5cU9BKzUwbVRDSGtOQlZnNjNTdFIzTUtadXM0bDRXbE56bjE0R3RYN2ZpdWdYTDMvdUtXSlhqMmh5bHh1U285VUE9PQ?tok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJoZG0yLmluayIsImlhdCI6MTc2MTc0MjA1OCwiZXhwIjoxNzYxNzQyOTU4LCJzbHVnIjoiU0swUUEiLCJ0eXBlIjoicXVhbGl0eV90b2tlbiJ9.7_a3_Bo_PvnPjnbGftWJVvqcY974kz_HFiLURPyQ9u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/hdmovie2.plumbing/wp-content/uploads/2025/09/n8GhftTjP05Zr9l6BBZNzWtIEpA.jpg" group-title="On-Demand",Kantara Chapter 1 (2025)
-https://icy-boat-356c.10011-8fd.workers.dev/stormgleam42.xyz/file2/z6K5ae+RKc8dq7uF9vz2NJpQvqq9N70HnrwEOJcwM274FnhNB6KU5RIqahblYRaLj87+Rq9nX0A8FRLf0xQo3JCQejszo7V7eHtKeQ1jwEYQdP2HA6QXNnR8YowrLx7HRLCaxHbgTL1bhrgZXiBJJ7dJ6aBSrcWQuXS6wPcKbTI=/MTA4MA==/aW5kZXgubTN1OA==.m3u8
+#EXTINF:-1 tvg-logo="https://allmovieland.one/uploads/posts/2026-04/1304313_poster_1777304251.jpg" group-title="MX-Hindi Movies" tvg-logo="" tvg-type="VOD Movies",Lee Cronin's The Mummy (2026)
+https://streamimdb.ru/movie/1wbw2-lee-cronin-s-the-mummy
 
-#EXTINF:-1 tvg-logo="https://hdmovie2.community/wp-content/uploads/2025/09/Mirai-2025-Poster.jpg" group-title="MX-Hindi Movies" tvg-logo="" tvg-type="VOD Movies",Mirai (2025)
-https://cdn30092.ginni386kex.com/stream2/i-cdn-0/7658751d91d49c066f61700a8dbbf660/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT2lFVjJTTyolaPR0a4p1VRVjWEpEbNR0aw4ERslmTHFFMNp2Z61keSxmWUlVP:1761745326:103.157.123.209:ef06859b8cc5001910342ff63baf9482cbed7953b1219620204e850ce5cec20b/1080/index.m3u8
+#EXTINF:-1 tvg-logo="https://allmovieland.one/uploads/posts/2025-12/83533_poster_1766030405.jpg" group-title="MX-Hindi Movies" tvg-logo="" tvg-type="VOD Movies",Avatar: Fire and Ash (2025)
+https://streamimdb.ru/movie/2e0i5-avatar-fire-and-ash
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
