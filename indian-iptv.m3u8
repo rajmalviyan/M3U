@@ -171,11 +171,11 @@ https://amg02051-soulpublishing-amg02051c17-lg-in-1190.playouts.now.amagi.tv/pla
 #EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/bfMpu5p_N6Hrdf13VuNdoNBgbuckMZv8i0qLaWJUAk9CbWd38TSwUppXKdkvQjYcpNyJscVJ=s160-c-k-c0x00ffffff-no-rj" group-title="हिंदी मनोरंजन",Comedy King
 https://amg01448-samsungindia-amg01448c6-samsung-in-2297.playouts.now.amagi.tv/playlist/amg01448-samsungindia-comedyking-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ts267" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="हिंदी फिल्में", & Pictures ᴴᴰ
+#EXTINF:-1 tvg-id="ts267" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="हिंदी फिल्में",& Pictures ᴴᴰ
 http://103.229.254.25:7001/play/a033/index.m3u8
 
-#EXTINF:-1 tvg-id="ts148" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures.png" group-title="हिंदी फिल्में", & Pictures
-http://103.229.254.25:7001/play/a073/index.m3u8
+#EXTINF:-1 tvg-id="ts148" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures.png" group-title="हिंदी फिल्में",& Pictures
+http://103.229.254.25:7001/play/a073/index.m3u
 
 #EXTINF:-1 tvg-id="ts267" tvg-logo="https://i.imgur.com/9mK6dgM.png" group-title="हिंदी फिल्में",&xplor HD (1080p)
 http://mini.allinonereborn.fun/tata.php?id=11619
