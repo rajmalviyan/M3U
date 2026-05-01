@@ -61,7 +61,7 @@ http://103.229.254.25:7001/play/a0a1/index.m3u8
 http://87.255.35.150:18886
 
 #EXTINF:-1 tvg-id="1396" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="हिंदी मनोरंजन",SET
-http://87.255.35.150:18546
+http://103.229.254.25:7001/play/a074/index.m3u8
 
 #EXTINF:-1 tvg-id="291" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="हिंदी मनोरंजन",SET ᴴᴰ
 http://87.255.35.150:18809
