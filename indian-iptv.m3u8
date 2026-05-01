@@ -172,7 +172,7 @@ https://amg02051-soulpublishing-amg02051c17-lg-in-1190.playouts.now.amagi.tv/pla
 https://amg01448-samsungindia-amg01448c6-samsung-in-2297.playouts.now.amagi.tv/playlist/amg01448-samsungindia-comedyking-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts148" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures.png" group-title="हिंदी फिल्में", & Pictures
-http://87.255.35.150:18510
+http://103.229.254.25:7001/play/a073/index.m3u8
 
 #EXTINF:-1 tvg-id="ts267" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="हिंदी फिल्में", & Pictures ᴴᴰ
 http://103.229.254.25:7001/play/a033/index.m3u8
