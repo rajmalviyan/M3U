@@ -226,7 +226,10 @@ http://87.255.35.150:18841
 #EXTINF:-1 tvg-id="ts100" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png?20230801125521" group-title="हिंदी फिल्में", Zee Action
 http://87.255.35.150:18507
 
-#EXTINF:-1 tvg-id="ts175" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="हिंदी फिल्में", Zee Classic
+#EXTINF:-1 tvg-id="ts175" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="हिंदी फिल्में", Zee Bollywood
+http://103.229.254.25:7001/play/a06n/index.m3u8
+
+#EXTINF:-1 tvg-id="ts175" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Zee_Classic.jpg/revision/latest?cb=20200907154854" group-title="हिंदी फिल्में", Zee Classic
 http://103.229.254.25:7001/play/a09w/index.m3u8
 
 #EXTINF:-1 tvg-id="ts175" tvg-logo="https://media0101.elcinema.com/tvguide/1259_1.png" group-title="हिंदी फिल्में", MBC Bollywood (1080p)
@@ -718,8 +721,8 @@ https://live.dinesh29.com.np/stream/jiotv/cnbctv18prime/master.m3u8
 #EXTINF:-1 tvg-logo="https://d3s2p39m306u7r.cloudfront.net/tvtn/Lg-images/LT%20400x200.png" group-title="समाचार",205 Lallantop
 https://amg00644-amg00644c4-amgplt0173.playout.now3.amagi.tv/playlist/amg00644-amg00644c4-amgplt0173/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
-#EXTINF:-1 tvg-id="Andflix.in@SD" group-title="English Movies",&flix (480p)
-https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8
+#EXTINF:-1 tvg-id="Andflix.in@SD" group-title="English Movies",&flix ᴴᴰ
+http://103.229.254.25:7001/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-id="ts530" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png" group-title="English Movies", & Prive ᴴᴰ
 http://103.229.254.25:7001/play/a03f/index.m3u8
